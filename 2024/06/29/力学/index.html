@@ -1,0 +1,894 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-CN" data-default-color-scheme=auto>
+
+
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="apple-touch-icon" sizes="76x76" href="/img/myavatar.jpg">
+  <link rel="icon" href="/img/myavatar.jpg">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  
+  <meta name="theme-color" content="#2f4154">
+  <meta name="author" content="xw-Soleil">
+  <meta name="keywords" content="">
+  
+    <meta name="description" content="前言从高中的时候就一直想总结一下，但苦于没有时间。 现在有时间了，顺便用用markdown，总结一下脑子里的物理知识有哪些(～￣▽￣)～ 顺便稍稍复习一下下学期即将开课的大物I  二编：寒假的时候略无聊，心血来潮想写写的笔记，幻想着能复习一下大物I，可惜这学期太忙了根本没听课（误）。（放在这里做下测试吧）下学期大物II提前上完了，不过还有固体物理，后面应该会更新笔记的  &emsp; &emsp;">
+<meta property="og:type" content="article">
+<meta property="og:title" content="力学">
+<meta property="og:url" content="https://xw-soleil.github.io/2024/06/29/%E5%8A%9B%E5%AD%A6/index.html">
+<meta property="og:site_name" content="xw-Soleil&#39;s Blog">
+<meta property="og:description" content="前言从高中的时候就一直想总结一下，但苦于没有时间。 现在有时间了，顺便用用markdown，总结一下脑子里的物理知识有哪些(～￣▽￣)～ 顺便稍稍复习一下下学期即将开课的大物I  二编：寒假的时候略无聊，心血来潮想写写的笔记，幻想着能复习一下大物I，可惜这学期太忙了根本没听课（误）。（放在这里做下测试吧）下学期大物II提前上完了，不过还有固体物理，后面应该会更新笔记的  &emsp; &emsp;">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://s11.ax1x.com/2024/02/01/pFMYz0f.jpg">
+<meta property="og:image" content="https://s11.ax1x.com/2024/02/01/pFMRldg.md.jpg">
+<meta property="og:image" content="https://s11.ax1x.com/2024/02/06/pF1nFKO.md.jpg">
+<meta property="og:image" content="https://s11.ax1x.com/2024/02/06/pF1n1sS.md.jpg">
+<meta property="article:published_time" content="2024-06-29T15:35:44.000Z">
+<meta property="article:modified_time" content="2024-06-30T11:03:42.804Z">
+<meta property="article:author" content="xw-Soleil">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://s11.ax1x.com/2024/02/01/pFMYz0f.jpg">
+  
+  
+  
+  <title>力学 - xw-Soleil&#39;s Blog</title>
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/twitter-bootstrap/4.6.1/css/bootstrap.min.css" />
+
+
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/github-markdown-css/4.0.0/github-markdown.min.css" />
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/hint.css/2.7.0/hint.min.css" />
+
+  <link  rel="stylesheet" href="https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.css" />
+
+
+
+<!-- 主题依赖的图标库，不要自行修改 -->
+<!-- Do not modify the link that theme dependent icons -->
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1749284_hj8rtnfg7um.css">
+
+
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1736178_lbnruvf0jn.css">
+
+
+<link  rel="stylesheet" href="/css/main.css" />
+
+
+  <link id="highlight-css" rel="stylesheet" href="/css/highlight.css" />
+  
+    <link id="highlight-css-dark" rel="stylesheet" href="/css/highlight-dark.css" />
+  
+
+
+
+
+  <script id="fluid-configs">
+    var Fluid = window.Fluid || {};
+    Fluid.ctx = Object.assign({}, Fluid.ctx)
+    var CONFIG = {"hostname":"xw-soleil.github.io","root":"/","version":"1.9.7","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false,"scope":[]},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"left","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"code_language":{"enable":true,"default":"TEXT"},"copy_btn":true,"image_caption":{"enable":true},"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"placement":"right","headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":true,"follow_dnt":true,"baidu":null,"google":{"measurement_id":null},"tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":"qdpGdMInrqhnbcwtrXS1gDjq-gzGzoHsz","app_key":"K69LShJh5ktuvRIZg3DUUjW4","server_url":"https://qdpgdmin.lc-cn-n1-shared.com","path":"window.location.pathname","ignore_local":false}},"search_path":"/local-search.xml","include_content_in_search":true};
+
+    if (CONFIG.web_analytics.follow_dnt) {
+      var dntVal = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
+      Fluid.ctx.dnt = dntVal && (dntVal.startsWith('1') || dntVal.startsWith('yes') || dntVal.startsWith('on'));
+    }
+  </script>
+  <script  src="/js/utils.js" ></script>
+  <script  src="/js/color-schema.js" ></script>
+  
+
+  
+
+  
+    <!-- Google tag (gtag.js) -->
+    <script async>
+      if (!Fluid.ctx.dnt) {
+        Fluid.utils.createScript("https://www.googletagmanager.com/gtag/js?id=", function() {
+          window.dataLayer = window.dataLayer || [];
+          function gtag() {
+            dataLayer.push(arguments);
+          }
+          gtag('js', new Date());
+          gtag('config', '');
+        });
+      }
+    </script>
+  
+
+  
+
+  
+
+  
+
+  
+    
+  
+
+
+
+  
+<meta name="generator" content="Hexo 7.2.0"></head>
+
+
+<body>
+  
+
+  <header>
+    
+
+<div class="header-inner" style="height: 70vh;">
+  <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
+  <div class="container">
+    <a class="navbar-brand" href="/">
+      <strong>xw-Soleil&#39;s Blog</strong>
+    </a>
+
+    <button id="navbar-toggler-btn" class="navbar-toggler" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <div class="animated-icon"><span></span><span></span><span></span></div>
+    </button>
+
+    <!-- Collapsible content -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto text-center">
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/" target="_self">
+                <i class="iconfont icon-home-fill"></i>
+                <span>首页</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/archives/" target="_self">
+                <i class="iconfont icon-archive-fill"></i>
+                <span>归档</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/categories/" target="_self">
+                <i class="iconfont icon-category-fill"></i>
+                <span>分类</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/tags/" target="_self">
+                <i class="iconfont icon-tags-fill"></i>
+                <span>标签</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/about/" target="_self">
+                <i class="iconfont icon-user-fill"></i>
+                <span>关于</span>
+              </a>
+            </li>
+          
+        
+          
+          
+          
+          
+            <li class="nav-item">
+              <a class="nav-link" href="/links/" target="_self">
+                <i class="iconfont icon-link-fill"></i>
+                <span>友链</span>
+              </a>
+            </li>
+          
+        
+        
+          <li class="nav-item" id="search-btn">
+            <a class="nav-link" target="_self" href="javascript:;" data-toggle="modal" data-target="#modalSearch" aria-label="Search">
+              <i class="iconfont icon-search"></i>
+            </a>
+          </li>
+          
+        
+        
+          <li class="nav-item" id="color-toggle-btn">
+            <a class="nav-link" target="_self" href="javascript:;" aria-label="Color Toggle">
+              <i class="iconfont icon-dark" id="color-toggle-icon"></i>
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  
+
+<div id="banner" class="banner" parallax=true
+     style="background: url('/img/background1.jpg') no-repeat center center; background-size: cover;">
+  <div class="full-bg-img">
+    <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.3)">
+      <div class="banner-text text-center fade-in-up">
+        <div class="h2">
+          
+            <span id="subtitle" data-typed-text="力学"></span>
+          
+        </div>
+
+        
+          
+  <div class="mt-3">
+    
+    
+      <span class="post-meta">
+        <i class="iconfont icon-date-fill" aria-hidden="true"></i>
+        <time datetime="2024-06-29 23:35" pubdate>
+          2024年6月29日 晚上
+        </time>
+      </span>
+    
+  </div>
+
+  <div class="mt-1">
+    
+      <span class="post-meta mr-2">
+        <i class="iconfont icon-chart"></i>
+        
+          2.9k 字
+        
+      </span>
+    
+
+    
+      <span class="post-meta mr-2">
+        <i class="iconfont icon-clock-fill"></i>
+        
+        
+        
+          25 分钟
+        
+      </span>
+    
+
+    
+    
+      
+        <span id="leancloud-page-views-container" class="post-meta" style="display: none">
+          <i class="iconfont icon-eye" aria-hidden="true"></i>
+          <span id="leancloud-page-views"></span> 次
+        </span>
+        
+      
+    
+  </div>
+
+
+        
+      </div>
+
+      
+    </div>
+  </div>
+</div>
+
+</div>
+
+  </header>
+
+  <main>
+    
+      
+
+<div class="container-fluid nopadding-x">
+  <div class="row nomargin-x">
+    <div class="side-col d-none d-lg-block col-lg-2">
+      
+  <aside class="sidebar category-bar" style="margin-right: -1rem">
+    
+
+
+
+
+
+<div class="category-list">
+  
+  
+</div>
+
+
+  </aside>
+
+
+    </div>
+
+    <div class="col-lg-8 nopadding-x-md">
+      <div class="container nopadding-x-md" id="board-ctn">
+        <div id="board">
+          <article class="post-content mx-auto">
+            <h1 id="seo-header">力学</h1>
+            
+              <p id="updated-time" class="note note-info" style="display: none">
+                
+                  
+                    本文最后更新于 2024-06-30T19:03:42+08:00
+                  
+                  
+
+                
+              </p>
+            
+            
+              <div class="markdown-body">
+                
+                <h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>从高中的时候就一直想总结一下，但苦于没有时间。</p>
+<p>现在有时间了，顺便用用markdown，总结一下脑子里的物理知识有哪些(～￣▽￣)～</p>
+<p>顺便稍稍复习一下下学期即将开课的大物I</p>
+<blockquote>
+<p>二编：寒假的时候略无聊，心血来潮想写写的笔记，幻想着能复习一下大物I，可惜这学期太忙了根本没听课（误）。（放在这里做下测试吧）下学期大物II提前上完了，不过还有固体物理，后面应该会更新笔记的<br>  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;————————哎，为数不多的物理课了……(心向物理bushi)</p>
+</blockquote>
+<h1 id="力学"><a href="#力学" class="headerlink" title="力学"></a>力学</h1><h2 id="一、运动的描述（运动学）："><a href="#一、运动的描述（运动学）：" class="headerlink" title="一、运动的描述（运动学）："></a>一、运动的描述（运动学）：</h2><h4 id="Describe-objects："><a href="#Describe-objects：" class="headerlink" title="Describe objects："></a>Describe objects：</h4><p>1.位置：位置矢量<strong>r</strong></p>
+<p>2.速度：速度矢量<strong>v</strong>&#x3D; $\frac{d\pmb{r}}{dt}$</p>
+<p>3.加速度：<strong>a</strong>&#x3D;  $\frac{d\pmb{v}}{dt}$</p>
+<h3 id="（一）对于同一参考系下不同“视角”的描述"><a href="#（一）对于同一参考系下不同“视角”的描述" class="headerlink" title="（一）对于同一参考系下不同“视角”的描述"></a>（一）对于同一参考系下不同“视角”的描述</h3><h4 id="坐标系​下的描述"><a href="#坐标系​下的描述" class="headerlink" title="坐标系​下的描述"></a>坐标系​下的描述</h4><h5 id="1-任意曲线坐标系：u-v-w"><a href="#1-任意曲线坐标系：u-v-w" class="headerlink" title="1.任意曲线坐标系：u,v,w"></a>1.任意曲线坐标系：<strong>u</strong>,<strong>v</strong>,<strong>w</strong></h5><p>对于其坐标下物体的小位移，对应<strong>r</strong>矢量小位移$d\pmb{r}$，有<br>$$<br>d\pmb{r}&#x3D;\dfrac{\partial \pmb{r}}{\partial u}du+\dfrac{\partial \pmb{r}}{\partial v}dv+\dfrac{\partial \pmb{r}}{\partial w}dw<br>$$</p>
+<p>$$</p>
+<p>$$</p>
+<h6 id="实例："><a href="#实例：" class="headerlink" title="实例："></a>实例：</h6><p>1.直角坐标系：<br>$$<br>d\pmb{r}&#x3D;\dfrac{\partial \pmb{r}}{\partial x}dx+\dfrac{\partial \pmb{r}}{\partial y}dy+\dfrac{\partial \pmb{r}}{\partial z}dz<br>$$</p>
+<p>其中由几何运算：</p>
+<p>$\dfrac{\partial \pmb{r}}{\partial x}$即为沿x轴方向单位矢量$\pmb{\hat{x}}$</p>
+<p>$\dfrac{\partial \pmb{r}}{\partial y}$即为沿y轴方向单位矢量$\pmb{\hat{y}}$​</p>
+<p>$\dfrac{\partial \pmb{r}}{\partial z}$即为沿z轴方向单位矢量$\pmb{\hat{z}}$​<br>$$<br>亦即d\pmb{r}&#x3D;\pmb{\hat{x}}dx+\pmb{\hat{y}}dy+\pmb{\hat{z}}d<br>$$<br>速度<br>$$<br>\pmb{v}&#x3D;\dfrac{d\pmb{r}}{dt}&#x3D;\frac{dx}{dt}\pmb{\hat{x}}+\frac{dy}{dt}\pmb{\hat{y}}+\frac{dz}{dt}\pmb{\hat{z}}\&#x3D;\dot{x}\pmb{\hat{x}}+\dot{y}\pmb{\hat{y}}+\dot{z}\pmb{\hat{z}}<br>$$<br>加速度<br>$$<br>\pmb{a}&#x3D;\frac{d\pmb{v}}{dt}&#x3D;\ddot{x}\pmb{\hat{x}}+\ddot{y}\pmb{\hat{y}}+\ddot{z}\pmb{\hat{z}}<br>$$</p>
+<p><strong>PS:</strong>(由于直角坐标的单位正交基不是 位置or时间 的函数，在其坐标下的导数就 等于 对应分量导数的矢量和)</p>
+<p>2.柱坐标系：<br>$$<br>d\pmb{r}&#x3D;\dfrac{\partial \pmb{r}}{\partial \rho}d\rho+\dfrac{\partial \pmb{r}}{\partial \theta}d\theta+\dfrac{\partial \pmb{r}}{\partial z}dz<br>$$</p>
+<p>其中由几何运算：</p>
+<p>$\dfrac{\partial \pmb{r}}{\partial \rho}$为沿$\rho$方向单位矢量$\hat{\pmb{\rho}}$</p>
+<p>$\dfrac{\partial \pmb{r}}{\partial \theta}$为$\rho\hat{\pmb{\theta}}$,其中$\hat{\pmb{\theta}}$为沿$\pmb{\theta}$方向(切向)单位矢量</p>
+<p>$\dfrac{\partial \pmb{r}}{\partial z}$即为沿z轴方向单位矢量$\pmb{\hat{x}}$​<br>$$<br>亦即d\pmb{r}&#x3D;d\rho\hat{\pmb{\rho}}+\rho d\theta\hat{\pmb{\theta}}+dz\pmb{\hat{z}}<br>$$</p>
+<p>速度<br>$$<br>\pmb{v}&#x3D;\frac{d\pmb{r}}{dt}&#x3D;\dot{\rho}\pmb{\hat{\rho}}+\rho\dot{\theta}\pmb{\hat{\theta}}+\dot{z}\pmb{\hat{z}}<br>$$<br>加速度<br>$$<br>\pmb{a}&#x3D;\frac{d\pmb{v}}{dt}&#x3D;\ddot{\rho}\pmb{\hat{\rho}}+\dot{\rho}\frac{d\pmb{\hat{\rho}}}{dt}+\dot{\rho}\dot{\theta}\pmb{\hat{\theta}}+\dot{\rho}\ddot{\theta}\pmb{\hat{\theta}}+\rho\dot{\theta}\frac{d\pmb{\hat{\theta}}}{dt}+\ddot{z}\pmb{\hat{z}}<br>$$</p>
+<p>其中$\frac{d\pmb{\hat{\rho}}}{dt}和\frac{d\pmb{\hat{\theta}}}{dt}$怎么处理$\longrightarrow$利用全微分处理，$d\pmb{\hat{\rho}}和d\pmb{\hat{\theta}}$对坐标的全微分是可以获得的：<br>$$<br>d\pmb{\hat{\rho}}&#x3D;\frac{\partial\pmb{\hat{\rho}}}{\partial\rho}d\rho+\frac{\partial\pmb{\hat{\rho}}}{\partial\theta}d\theta<br>\<br>&#x3D;0+d\theta\cdot\pmb{\hat{\theta}}<br>\<br>d\pmb{\hat{\theta}}&#x3D;\frac{\partial\pmb{\hat{\theta}}}{\partial\rho}d\rho+\frac{\partial\pmb{\hat{\theta}}}{\partial\theta}d\theta<br>\<br>&#x3D;d\rho\cdot(-\pmb{\hat{\rho}})&#x3D;-d\rho\cdot\pmb{\hat{\rho}}<br>$$<br>因此<br>$$<br>\frac{d\pmb{\hat{\rho}}}{dt}&#x3D;\dot{\theta}\pmb{\hat{\theta}}\quad\frac{d\pmb{\hat{\theta}}}{dt}&#x3D;-\dot{\rho}\pmb{\hat{\rho}}\<br>\pmb{a}&#x3D;\frac{d\pmb{v}}{dt}&#x3D;(\ddot{\rho}-\dot{\rho}\dot{\theta}^2)\pmb{\hat{\rho}}+(2\dot{\rho}\dot{\theta}+\rho\ddot{\theta})\pmb{\hat{\theta}}+\ddot{z}\pmb{\hat{z}}<br>$$<br>3.球坐标系，推导方式类似，这里直接给出结果<br>$$<br>\pmb{a}&#x3D;balabala…(手动狗头bushi)<br>$$<br>4.平面极坐标（直接由柱坐标系退化即可）<br>$$<br>\pmb{a}&#x3D;\frac{d\pmb{v}}{dt}&#x3D;(\ddot{\rho}-\dot{\rho}\dot{\theta}^2)\pmb{\hat{\rho}}+(2\dot{\rho}\dot{\theta}+\rho\ddot{\theta})\pmb{\hat{\theta}}<br>$$</p>
+<h5 id="2-自然坐标系"><a href="#2-自然坐标系" class="headerlink" title="2.自然坐标系"></a>2.自然坐标系</h5><p>自然坐标系的运动的描述：</p>
+<p>$\longrightarrow$把运动分解为直线运动和圆周运动</p>
+<blockquote>
+<p><mark>其<em><strong>本质</strong></em>是对于速度矢量的大小和方向进行度量</mark></p>
+<p><a target="_blank" rel="noopener" href="https://imgse.com/i/pFMYz0f"><img src="https://s11.ax1x.com/2024/02/01/pFMYz0f.jpg" srcset="/img/loading.gif" lazyload alt="curve.jpg"></a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             </p>
+<p>这里其实用到了一个思想$\longrightarrow$将时间项$,,$<strong>dt</strong>$,,$利用其他不显含时间的量$,,$$\pmb{\omega}$$,,$​来进行表示</p>
+<p>​						这与有心力场中轨道微分方程 <mark>Binet公式</mark>的思想相同</p>
+</blockquote>
+<blockquote>
+<p>沿运动方向：切向加速度</p>
+<p>垂直运动方向：向心加速度<br>$$<br>合并在一个式子里即\pmb{a}&#x3D;\frac{v^2}{\rho}\pmb{\hat{r}}+\ddot{s}\pmb{\hat{\tau}}<br>$$</p>
+</blockquote>
+<p>$,,,$另外的应用——软绳坐标（在约束中再提）</p>
+<h3 id="（二）对于不同参照系下同一“视角下的描述”"><a href="#（二）对于不同参照系下同一“视角下的描述”" class="headerlink" title="（二）对于不同参照系下同一“视角下的描述”"></a>（二）对于不同参照系下同一“视角下的描述”</h3><h4 id="参考系"><a href="#参考系" class="headerlink" title="参考系"></a>参考系</h4><p>相对于任意参考系，空间是非均匀且各向异性的，即某个物体与其他物体没有相互作用，它在空间中的不同位置和不同指向在力学意义上是不等价的.同样，一般情况下任意参考系中的时间也是非均匀的，即不同时刻也是不等价的.显然，时间和空间的这些性质使力学现象的描述变得复杂.</p>
+<p>然而，似乎总是存在某种参考系，空间相对它是均匀的、各向同性的，时间相对于它是均匀的——这样的参考系称为惯性参考系。</p>
+<p align="right">————上述两段摘自Landau力学</p>
+
+<h4 id="伽利略变换"><a href="#伽利略变换" class="headerlink" title="伽利略变换"></a>伽利略变换</h4><p>对于两个惯性参考系之间的变换，</p>
+<p>$\pmb{r’}&#x3D;\pmb{r}+\pmb{u}t\t’&#x3D;t$$,,,,,,,,$​两个式子即代表了两个惯性参照系的坐标与时间关系，后者为经典力学中的绝对时间假设</p>
+<p>对上式进行求导，得到了两个坐标系的速度变换公式<br>$$<br>\pmb{v’}&#x3D;\pmb{v}+\pmb{u}<br>$$<br>伽利略相对性原理也可以表述为：力学运动方程在伽利略变换下具有不变性（形式不变）</p>
+<h4 id="在不同坐标系下描述物体的运动"><a href="#在不同坐标系下描述物体的运动" class="headerlink" title="在不同坐标系下描述物体的运动"></a>在不同坐标系下描述物体的运动</h4><h5 id="1-两个互作平动的参照系之间的变换"><a href="#1-两个互作平动的参照系之间的变换" class="headerlink" title="1.两个互作平动的参照系之间的变换"></a>1.两个互作平动的参照系之间的变换</h5><p>互作平动，但是未必相对运动是匀速运动$\pmb{r’}&#x3D;\pmb{r}+\pmb{u}t$​ &#10008;</p>
+<p>下面给出变换公式及其推导<br>$$<br>\pmb{r’}&#x3D;\pmb{r}+\pmb{\rho}<br>\<br>\frac{d\pmb{\rho}}{dt}\triangleq \pmb{u},\frac{d\pmb{r}}{dt}\triangleq \pmb{v},\frac{d\pmb{r’}}{dt}\triangleq \pmb{v’},\frac{d\pmb{u}}{dt}\triangleq \pmb{A}<br>\<br>s.t.\pmb{v’}&#x3D;\pmb{v}+\pmb{u}<br>\<br>\pmb{a’}&#x3D;\pmb{a}+\pmb{A}<br>$$<br>其中物理量含义不做过多解释；</p>
+<h5 id="2-两个互作转动的参照系之间的变换"><a href="#2-两个互作转动的参照系之间的变换" class="headerlink" title="2.两个互作转动的参照系之间的变换"></a>2.两个互作转动的参照系之间的变换</h5><p><a target="_blank" rel="noopener" href="https://imgse.com/i/pFMRldg"><img src="https://s11.ax1x.com/2024/02/01/pFMRldg.md.jpg" srcset="/img/loading.gif" lazyload alt="pFMRldg.md.jpg"></a></p>
+<p>在参考系(<strong>S</strong>)内，如果$\pmb{R}$矢量绕某个轴以角速度$\pmb{\omega}$转动(注意<strong>方向是沿轴向上不是逆时针</strong>)，</p>
+<p>则对$\pmb{R}$矢量求导满足（记以角速度$\omega$转动的参考系为**S’*<em>）<br>$$<br>(\frac{d\pmb{R}}{dt})<em>S&#x3D;(\frac{d\pmb{R}}{dt})</em>{S’}+\pmb{\omega}\times\pmb{R}<br>\<br>其中(\frac{d\pmb{R}}{dt})_{S’}实际为\pmb{R}矢量在S’系中不旋转，只伸长or缩小<br>$$<br>应用上述结论，则有速度变换<br>$$<br>(\frac{d\pmb{r}}{dt})<em>S&#x3D;(\frac{d\pmb{r}}{dt})</em>{S’}+\pmb{\omega}\times\pmb{r}<br>\<br>即\pmb{v’}&#x3D;\pmb{v}+\pmb{\omega}\times\pmb{r}<br>$$<br>再求导<br>$$<br>(\frac{d\pmb{v’}}{dt})_S&#x3D;(\frac{d(\pmb{v}+\pmb{\omega}\times\pmb{r})}{dt})_S&#x3D;(\frac{d\pmb{v}}{dt})_S+(\frac{d(\pmb{\omega}\times\pmb{r})}{dt})_S<br>\<br>&#x3D;(\frac{d\pmb{v}}{dt})_S+(\frac{d\pmb{\omega}}{dt})_S\times\pmb{r}+\pmb{\omega}\times(\frac{d\pmb{r}}{dt})_S<br>\<br>&#x3D;(\frac{d\pmb{v}}{dt})_S+\pmb{\beta}\times\pmb{r}+\pmb{\omega}\times(\frac{d\pmb{r}}{dt})_S<br>\<br>而我们又知道(\frac{d\pmb{r}}{dt})_S&#x3D;\pmb{v’}&#x3D;\pmb{v}+\pmb{\omega}\times\pmb{r},,,,and,,,,(\frac{d\pmb{v}}{dt})<em>S&#x3D;(\frac{d\pmb{r}}{dt})</em>{S’}+\pmb{\omega}\times\pmb{v}<br>\<br>s.t. (\frac{d\pmb{v’}}{dt})<em>S&#x3D;&#x3D;(\frac{d\pmb{v}}{dt})<em>S+\pmb{\beta}\times\pmb{r}+\pmb{\omega}\times(\pmb{v}+\pmb{\omega}\times\pmb{r})<br>\<br>&#x3D;(\frac{d\pmb{r}}{dt})</em>{S’}+\pmb{\omega}\times\pmb{v}+\pmb{\beta}\times\pmb{r}+\pmb{\omega}\times(\pmb{v}+\pmb{\omega}\times\pmb{r})<br>\<br>&#x3D;(\frac{d\pmb{r}}{dt})</em>{S’}+2\pmb{\omega}\times\pmb{v}+\pmb{\beta}\times\pmb{r}+\pmb{\omega}\times(\pmb{\omega}\times\pmb{r})<br>\<br>(\frac{d\pmb{v’}}{dt})<em>S\triangleq \pmb{a’},,,,(\frac{d\pmb{v}}{dt})</em>{S’}\triangleq \pmb{a’}<br>\<br>s.t.\pmb{a’}&#x3D;\pmb{a}+2\pmb{\omega}\times\pmb{v}+\pmb{\beta}\times\pmb{r}+\pmb{\omega}\times(\pmb{\omega}\times\pmb{r})<br>\<br>$$<br>此即两个互作转动的参照系之间的加速度变换（累死了(´〜｀</em>) ）</p>
+<p>前情提要：</p>
+<p>上面对于运动的描述都是对于单个物体（质点）而言，对于质点系而言，当然可以对每个质点单独进行描述，但是对于质点之间，存在着一定的约束，下面我们讨论有约束关系我们能获得什么：</p>
+<h3 id="（三）约束"><a href="#（三）约束" class="headerlink" title="（三）约束"></a>（三）约束</h3><p>理想约束&#x2F;非理想约束，这个等到后面分析力学再详细展开（或者再这里再补充）</p>
+<p>这里仅举常用的一些例子，但是会从更数学的角度去处理约束关系，和从物理的角度对比一下，更好的理解运动关联的那些事</p>
+<p>eg1:杆模型</p>
+<p><a target="_blank" rel="noopener" href="https://imgse.com/i/pF1nFKO"><img src="https://s11.ax1x.com/2024/02/06/pF1nFKO.md.jpg" srcset="/img/loading.gif" lazyload alt="pF1nFKO.md.jpg"></a></p>
+<p>杆模型这里只关注两个端点的约束关系，杆长为$l$,选取一个原点为$O$,则此时描述两个质点的运动由$\pmb{r_1,r_2}$来决定</p>
+<p>那这两个质点（两个端点）有什么约束关系——很简单，$\abs{\pmb{r_1}-\pmb{r_2}}&#x3D;l$</p>
+<p>但是操作起来不是那么方便，于是上式改写为$(\pmb{r_1}-\pmb{r_2})^2&#x3D;l^2$</p>
+<p>这样写有什么好处——可以求导了！式子两边对时间求导<br>$$<br>\frac{d(\pmb{r_1}-\pmb{r_2})^2}{dt}&#x3D;\frac{d}{dt}\lbrace (\pmb{r_1}-\pmb{r_2})\cdot(\pmb{r_1}-\pmb{r_2})\rbrace\<br>&#x3D;(\pmb{r_1}-\pmb{r_2})\cdot(\pmb{v_1}-\pmb{v_2})+(\pmb{v_1}-\pmb{v_2})\cdot(\pmb{r_1}-\pmb{r_2})\<br>&#x3D;2(\pmb{r_1}-\pmb{r_2})\cdot(\pmb{v_1}-\pmb{v_2})\<br>&#x3D;\frac{d(l^2)}{dt}&#x3D;0<br>$$</p>
+<p>由此我们获得了一个信息——$(\pmb{r_1}-\pmb{r_2})\cdot(\pmb{v_1}-\pmb{v_2})&#x3D;\pmb{0}$</p>
+<p>这句话代表了什么$\longrightarrow\pmb{r_1}-\pmb{r_2}记为\pmb{l}$​</p>
+<p>上式化为$\pmb{l}\cdot\pmb{v_1}&#x3D;\pmb{l}\cdot\pmb{v_2}$</p>
+<p><a target="_blank" rel="noopener" href="https://imgse.com/i/pF1n1sS"><img src="https://s11.ax1x.com/2024/02/06/pF1n1sS.md.jpg" srcset="/img/loading.gif" lazyload alt="pF1n1sS.md.jpg"></a></p>
+<p>再图里面看是不是就很明显，$\pmb{l}\cdot\pmb{v_1}&#x3D;\pmb{l}\cdot\pmb{v_2}$意思就是沿杆的方向速度相等（图片中两个速度显然不符合实际情况）</p>
+<p>————显然是废话{bushi}</p>
+<p>从这里面其实我们就能更加深刻的理解，平时我们所说的沿杆的方向速度相等的更深层次的原理，而不是一些物理直觉（当然直觉也是有理有据的）</p>
+<p>我们再看$\pmb{r_1}-\pmb{r_2}&#x3D;\pmb{l}$这个式子，在平面中，$\pmb{l}$往往是以平动加转动的方式在“运动”，那么我们尝试对$\pmb{l}$进行求导，</p>
+<p>显然，这和上面旋转坐标系那里提及的求导方式是一致的，<br>$$<br>\frac{d\pmb{l}}{dt}&#x3D;对长度的求导+对方向的求导\<br>&#x3D;\pmb{0}+\pmb{\omega}\times\pmb{l}\<br>&#x3D;\pmb{\omega}\times\pmb{l}\<br>也就是说对\pmb{r_1}-\pmb{r_2}&#x3D;\pmb{l}两边求导，会得到——\<br>\pmb{v_1}-\pmb{v_2}&#x3D;\pmb{\omega}\times\pmb{l}<br>$$<br>这个式子我们再看，它有用了起来</p>
+<p>$\pmb{v_1}-\pmb{v_2}&#x3D;\pmb{\omega}\times\pmb{l}$  其实就是以一个端点为参考系，另一个端点必然是绕原来的端点（在系中静止的）圆周运动</p>
+<p>再求导可以得到<br>$$<br>\pmb{a_1}-\pmb{a_2}&#x3D;\frac{d(\pmb{\omega}\times\pmb{l})}{dt}\<br>&#x3D;\pmb{\beta}\times\pmb{l}+\pmb{\omega}\times\frac{d\pmb{l}}{dt}\<br>&#x3D;\pmb{\beta}\times\pmb{l}+\pmb{\omega}\times(\pmb{\omega}\times\pmb{l})<br>$$<br>即，由一个简单的杆约束方程，我们得到了如下信息<br>$$<br>\pmb{l}\cdot\pmb{v_1}&#x3D;\pmb{l}\cdot\pmb{v_2}\<br>\pmb{v_1}-\pmb{v_2}&#x3D;\pmb{\omega}\times\pmb{l}\<br>\pmb{a_1}-\pmb{a_2}&#x3D;<br>\pmb{\beta}\times\pmb{l}+\pmb{\omega}\times(\pmb{\omega}\times\pmb{l})<br>$$</p>
+<p>eg2:软绳模型——既然前面的情形很常见，那么接下来讨论一个稍微不常见的软绳模型</p>
+
+                
+              </div>
+            
+            <hr/>
+            <div>
+              <div class="post-metas my-3">
+  
+  
+</div>
+
+
+              
+  
+
+  <div class="license-box my-3">
+    <div class="license-title">
+      <div>力学</div>
+      <div>https://xw-soleil.github.io/2024/06/29/力学/</div>
+    </div>
+    <div class="license-meta">
+      
+        <div class="license-meta-item">
+          <div>作者</div>
+          <div>xw-Soleil</div>
+        </div>
+      
+      
+        <div class="license-meta-item license-meta-date">
+          <div>发布于</div>
+          <div>2024年6月29日</div>
+        </div>
+      
+      
+        <div class="license-meta-item license-meta-date">
+          <div>更新于</div>
+          <div>2024年6月30日</div>
+        </div>
+      
+      
+        <div class="license-meta-item">
+          <div>许可协议</div>
+          <div>
+            
+              
+              
+                <a class="print-no-link" target="_blank" href="https://creativecommons.org/licenses/by/4.0/">
+                  <span class="hint--top hint--rounded" aria-label="BY - 署名">
+                    <i class="iconfont icon-by"></i>
+                  </span>
+                </a>
+              
+            
+          </div>
+        </div>
+      
+    </div>
+    <div class="license-icon iconfont"></div>
+  </div>
+
+
+
+              
+                <div class="post-prevnext my-3">
+                  <article class="post-prev col-6">
+                    
+                    
+                  </article>
+                  <article class="post-next col-6">
+                    
+                    
+                  </article>
+                </div>
+              
+            </div>
+
+            
+  
+  
+    <article id="comments" lazyload>
+      
+  <div id="valine"></div>
+  <script type="text/javascript">
+    Fluid.utils.loadComments('#valine', function() {
+      Fluid.utils.createScript('https://lib.baomitu.com/valine/1.5.1/Valine.min.js', function() {
+        var options = Object.assign(
+          {"appId":"qdpGdMInrqhnbcwtrXS1gDjq-gzGzoHsz","appKey":"K69LShJh5ktuvRIZg3DUUjW4","path":"window.location.pathname","placeholder":null,"avatar":"retro","meta":["nick","mail","link"],"requiredFields":[],"pageSize":10,"lang":"zh-CN","highlight":false,"recordIP":false,"serverURLs":"","emojiCDN":null,"emojiMaps":null,"enableQQ":false},
+          {
+            el: "#valine",
+            path: window.location.pathname
+          }
+        )
+        new Valine(options);
+        Fluid.utils.waitElementVisible('#valine .vcontent', () => {
+          var imgSelector = '#valine .vcontent img:not(.vemoji)';
+          Fluid.plugins.imageCaption(imgSelector);
+          Fluid.plugins.fancyBox(imgSelector);
+        })
+      });
+    });
+  </script>
+  <noscript>Please enable JavaScript to view the comments</noscript>
+
+
+    </article>
+  
+
+
+          </article>
+        </div>
+      </div>
+    </div>
+
+    <div class="side-col d-none d-lg-block col-lg-2">
+      
+  <aside class="sidebar" style="margin-left: -1rem">
+    <div id="toc">
+  <p class="toc-header">
+    <i class="iconfont icon-list"></i>
+    <span>目录</span>
+  </p>
+  <div class="toc-body" id="toc-body"></div>
+</div>
+
+
+
+  </aside>
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+    
+
+    
+      <a id="scroll-top-button" aria-label="TOP" href="#" role="button">
+        <i class="iconfont icon-arrowup" aria-hidden="true"></i>
+      </a>
+    
+
+    
+      <div class="modal fade" id="modalSearch" tabindex="-1" role="dialog" aria-labelledby="ModalLabel"
+     aria-hidden="true">
+  <div class="modal-dialog modal-dialog-scrollable modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+        <h4 class="modal-title w-100 font-weight-bold">搜索</h4>
+        <button type="button" id="local-search-close" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body mx-3">
+        <div class="md-form mb-5">
+          <input type="text" id="local-search-input" class="form-control validate">
+          <label data-error="x" data-success="v" for="local-search-input">关键词</label>
+        </div>
+        <div class="list-group" id="local-search-result"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+  
+    <div class="footer-content">
+       <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a> <i class="iconfont icon-love"></i> <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a> 
+    </div>
+  
+  
+    <div class="statistics">
+  
+  
+
+  
+    
+      <span id="leancloud-site-pv-container" style="display: none">
+        总访问量 
+        <span id="leancloud-site-pv"></span>
+         次
+      </span>
+    
+    
+      <span id="leancloud-site-uv-container" style="display: none">
+        总访客数 
+        <span id="leancloud-site-uv"></span>
+         人
+      </span>
+    
+    
+
+  
+</div>
+
+  
+  
+  
+</div>
+
+  </footer>
+
+  <!-- Scripts -->
+  
+  <script  src="https://lib.baomitu.com/nprogress/0.2.0/nprogress.min.js" ></script>
+  <link  rel="stylesheet" href="https://lib.baomitu.com/nprogress/0.2.0/nprogress.min.css" />
+
+  <script>
+    NProgress.configure({"showSpinner":false,"trickleSpeed":100})
+    NProgress.start()
+    window.addEventListener('load', function() {
+      NProgress.done();
+    })
+  </script>
+
+
+<script  src="https://lib.baomitu.com/jquery/3.6.4/jquery.min.js" ></script>
+<script  src="https://lib.baomitu.com/twitter-bootstrap/4.6.1/js/bootstrap.min.js" ></script>
+<script  src="/js/events.js" ></script>
+<script  src="/js/plugins.js" ></script>
+
+
+  <script  src="https://lib.baomitu.com/typed.js/2.0.12/typed.min.js" ></script>
+  <script>
+    (function (window, document) {
+      var typing = Fluid.plugins.typing;
+      var subtitle = document.getElementById('subtitle');
+      if (!subtitle || !typing) {
+        return;
+      }
+      var text = subtitle.getAttribute('data-typed-text');
+      
+        typing(text);
+      
+    })(window, document);
+  </script>
+
+
+
+
+  
+    <script  src="/js/img-lazyload.js" ></script>
+  
+
+
+
+
+  
+<script>
+  var relativeDate = function() {
+    var updatedTime = document.getElementById('updated-time');
+    if (updatedTime) {
+      var text = updatedTime.textContent;
+      var reg = /\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:Z|[+-]\d{2}:\d{2})/;
+      var matchs = text.match(reg);
+      if (matchs) {
+        var relativeTime = moment(matchs[0]).fromNow();
+        updatedTime.textContent = text.replace(reg, relativeTime);
+      }
+      updatedTime.style.display = '';
+    }
+  };
+  Fluid.utils.createScript('https://lib.baomitu.com/moment.js/2.29.4/moment.min.js', function() {
+    if (!'zh-cn'.startsWith('en')) {
+      Fluid.utils.createScript('https://lib.baomitu.com/moment.js/2.29.4/locale/zh-cn.min.js', function() {
+        relativeDate();
+      });
+    } else {
+      relativeDate();
+    }
+  });
+</script>
+
+
+  
+<script>
+  Fluid.utils.createScript('https://lib.baomitu.com/tocbot/4.20.1/tocbot.min.js', function() {
+    var toc = jQuery('#toc');
+    if (toc.length === 0 || !window.tocbot) { return; }
+    var boardCtn = jQuery('#board-ctn');
+    var boardTop = boardCtn.offset().top;
+
+    window.tocbot.init(Object.assign({
+      tocSelector     : '#toc-body',
+      contentSelector : '.markdown-body',
+      linkClass       : 'tocbot-link',
+      activeLinkClass : 'tocbot-active-link',
+      listClass       : 'tocbot-list',
+      isCollapsedClass: 'tocbot-is-collapsed',
+      collapsibleClass: 'tocbot-is-collapsible',
+      scrollSmooth    : true,
+      includeTitleTags: true,
+      headingsOffset  : -boardTop,
+    }, CONFIG.toc));
+    if (toc.find('.toc-list-item').length > 0) {
+      toc.css('visibility', 'visible');
+    }
+
+    Fluid.events.registerRefreshCallback(function() {
+      if ('tocbot' in window) {
+        tocbot.refresh();
+        var toc = jQuery('#toc');
+        if (toc.length === 0 || !tocbot) {
+          return;
+        }
+        if (toc.find('.toc-list-item').length > 0) {
+          toc.css('visibility', 'visible');
+        }
+      }
+    });
+  });
+</script>
+
+
+  <script src=https://lib.baomitu.com/clipboard.js/2.0.11/clipboard.min.js></script>
+
+  <script>Fluid.plugins.codeWidget();</script>
+
+
+  
+<script>
+  Fluid.utils.createScript('https://lib.baomitu.com/anchor-js/4.3.1/anchor.min.js', function() {
+    window.anchors.options = {
+      placement: CONFIG.anchorjs.placement,
+      visible  : CONFIG.anchorjs.visible
+    };
+    if (CONFIG.anchorjs.icon) {
+      window.anchors.options.icon = CONFIG.anchorjs.icon;
+    }
+    var el = (CONFIG.anchorjs.element || 'h1,h2,h3,h4,h5,h6').split(',');
+    var res = [];
+    for (var item of el) {
+      res.push('.markdown-body > ' + item.trim());
+    }
+    if (CONFIG.anchorjs.placement === 'left') {
+      window.anchors.options.class = 'anchorjs-link-left';
+    }
+    window.anchors.add(res.join(', '));
+
+    Fluid.events.registerRefreshCallback(function() {
+      if ('anchors' in window) {
+        anchors.removeAll();
+        var el = (CONFIG.anchorjs.element || 'h1,h2,h3,h4,h5,h6').split(',');
+        var res = [];
+        for (var item of el) {
+          res.push('.markdown-body > ' + item.trim());
+        }
+        if (CONFIG.anchorjs.placement === 'left') {
+          anchors.options.class = 'anchorjs-link-left';
+        }
+        anchors.add(res.join(', '));
+      }
+    });
+  });
+</script>
+
+
+  
+<script>
+  Fluid.utils.createScript('https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.js', function() {
+    Fluid.plugins.fancyBox();
+  });
+</script>
+
+
+  <script>Fluid.plugins.imageCaption();</script>
+
+  
+      <script>
+        if (!window.MathJax) {
+          window.MathJax = {
+            tex    : {
+              inlineMath: { '[+]': [['$', '$']] }
+            },
+            loader : {
+              load: ['ui/lazy']
+            },
+            options: {
+              renderActions: {
+                insertedScript: [200, () => {
+                  document.querySelectorAll('mjx-container').forEach(node => {
+                    let target = node.parentNode;
+                    if (target.nodeName.toLowerCase() === 'li') {
+                      target.parentNode.classList.add('has-jax');
+                    }
+                  });
+                }, '', false]
+              }
+            }
+          };
+        } else {
+          MathJax.startup.document.state(0);
+          MathJax.texReset();
+          MathJax.typeset();
+          MathJax.typesetPromise();
+        }
+
+        Fluid.events.registerRefreshCallback(function() {
+          if ('MathJax' in window && MathJax.startup.document && typeof MathJax.startup.document.state === 'function') {
+            MathJax.startup.document.state(0);
+            MathJax.texReset();
+            MathJax.typeset();
+            MathJax.typesetPromise();
+          }
+        });
+      </script>
+    
+
+  <script  src="https://lib.baomitu.com/mathjax/3.2.2/es5/tex-mml-chtml.js" ></script>
+
+  <script defer src="/js/leancloud.js" ></script>
+
+  <script  src="/js/local-search.js" ></script>
+
+
+
+
+
+<!-- 主题的启动项，将它保持在最底部 -->
+<!-- the boot of the theme, keep it at the bottom -->
+<script  src="/js/boot.js" ></script>
+
+
+  
+
+  <noscript>
+    <div class="noscript-warning">博客在允许 JavaScript 运行的环境下浏览效果更佳</div>
+  </noscript>
+</body>
+</html>

@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>数值分析方法</title>
+      <link href="/2024/09/19/Mumerical-Analysis/"/>
+      <url>/2024/09/19/Mumerical-Analysis/</url>
+      
+        <content type="html"><![CDATA[<div class="row">    <embed src="/pdf/数值分析方法笔记.pdf" width="100%" height="550" type="application/pdf"></div><p>另外参考Jiepeng gg的笔记（计院开课的数值分析，感觉更加详细一点）<br><a href="https://note.jiepeng.tech/CS/NA/">Jiepeng’s Notebook of Mumerical Analysis</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Math </tag>
+            
+            <tag> Mumerical Analysis </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>工程训练</title>
       <link href="/2024/09/17/%E5%B7%A5%E7%A8%8B%E8%AE%AD%E7%BB%83/"/>
       <url>/2024/09/17/%E5%B7%A5%E7%A8%8B%E8%AE%AD%E7%BB%83/</url>
@@ -68,9 +89,9 @@
       
         <tags>
             
-            <tag> Mechanics </tag>
-            
             <tag> Physics </tag>
+            
+            <tag> Mechanics </tag>
             
         </tags>
       

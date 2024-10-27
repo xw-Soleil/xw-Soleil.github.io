@@ -1,0 +1,88 @@
+@font-face {
+  font-family: 'tzy';
+/* �������Զ��弴�� */
+  src: url("../XiaolaiMonoSC-Regular.ttf");
+/* �����ļ�·�� */
+  font-display: swap;
+}
+body,
+.gitcalendar {
+  font-family: tzy !important;
+}
+.categoryBar-list {
+  max-height: 400px;
+}
+.clock-row {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+/*3sΪ���ض�����ʱ�䣬1Ϊ���ض����Ĵ�����ease-in-outΪ����Ч��*/
+#page-header,
+#web_bg {
+  -webkit-animation: imgblur 2s 1 ease-in-out;
+  animation: imgblur 2s 1 ease-in-out;
+}
+/*����ʹ��-webkit�ں˵������ */
+@-webkit-keyframes imgblur {
+  0% {
+    -webkit-filter: blur(5px);
+  }
+  100% {
+    -webkit-filter: blur(0px);
+  }
+}
+.table-wrap img {
+  margin: 0.6rem auto 0.1rem !important;
+}
+/* ��ǩ��� ��վ��Ƭ start */
+.site-card-group img {
+  margin: 0 auto 0.1rem !important;
+}
+.site-card-group .info a img {
+  margin-right: 10px !important;
+}
+[data-theme='dark'] .site-card-group .site-card .info .title {
+  color: #f0f0f0 !important;
+}
+[data-theme='dark'] .site-card-group .site-card .info .desc {
+  color: rgba(255,255,255,0.7) !important;
+}
+.site-card-group .info .desc {
+  margin-top: 4px !important;
+}
+/* �������ɫ */
+figure.highlight pre .addition {
+  color: #00bf03 !important;
+}
+@-moz-keyframes imgblur {
+  0% {
+    filter: blur(5px);
+  }
+  100% {
+    filter: blur(0px);
+  }
+}
+@-webkit-keyframes imgblur {
+  0% {
+    filter: blur(5px);
+  }
+  100% {
+    filter: blur(0px);
+  }
+}
+@-o-keyframes imgblur {
+  0% {
+    filter: blur(5px);
+  }
+  100% {
+    filter: blur(0px);
+  }
+}
+@keyframes imgblur {
+  0% {
+    filter: blur(5px);
+  }
+  100% {
+    filter: blur(0px);
+  }
+}

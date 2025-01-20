@@ -48,7 +48,7 @@
       <link href="/2025/01/20/Engineering-Innovation/"/>
       <url>/2025/01/20/Engineering-Innovation/</url>
       
-        <content type="html"><![CDATA[<h1 id="中国大学生工程实践与创新能力大赛">中国大学生工程实践与创新能力大赛</h1><p>先挖个坑，以后慢慢填一下x</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="中国大学生工程实践与创新能力大赛">中国大学生工程实践与创新能力大赛</h1><p>先挖个坑，以后慢慢填一下x</p><h2 id="opencv配置">OpenCv配置</h2><p>（这碎碎念不知道丢哪先丢这里好了，挖个坑慢慢填）</p><ul><li>当时遇到最大的困难就是JetsonNano板子只支持python3.6这个巨老的版本，在电脑上py10以上跑的权重文件塞不进去，后来没办法在电脑上降版本还好是成功了的</li><li>以及后期考虑租服务器，在配置服务器的python环境又是一大头疼的点——服务器科学上网很困难，而且当时租的好像是腾讯云，这种一旦发现科学上网就会封号（汗），所以最后只能迎着头皮装，困难来了，在装opencv库的时候，下载好了，安装依赖的时候告诉我从github上获取，，，，所以没戏了。。。不过后来挣扎了一下试图<strong>降低requirements里面要求的opencv的版本号</strong>（大约一版左右），没想到真的装好了————当时一下子活过来了（bushi）</li></ul>]]></content>
       
       
       <categories>

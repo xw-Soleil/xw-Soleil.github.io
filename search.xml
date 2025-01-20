@@ -4,6 +4,65 @@
   
     
     <entry>
+      <title>置置置顶好文</title>
+      <link href="/3025/01/20/TOP/"/>
+      <url>/3025/01/20/TOP/</url>
+      
+        <content type="html"><![CDATA[<p>这里是置顶文章，会放一些公告或者其他什么东西的地方~~</p><h2 id="关于更新">关于更新</h2><p>    感觉平时会比较忙，而且最近一个学期电子笔记开始迷恋上Typst和latex的排版格式（会觉得markdown有点不是很规整），于是你可以看到我的好多笔记都是pdf版本的，但是在网站上是没法渲染的，只能使用pdf插件，另一种方法就是使用图片格式，但是个人感觉这样会很蠢，直接把截图贴过来看着其实就会有点生硬；其次就是图片如果还是github作为图床的话还是比较头疼加载速度，不科学上网卡得要死wwwwww；</p><p>    这这这这还是一个比较头疼的点<strong>尚未解决</strong>，如果有好的解决办法非常欢迎私戳！！！QAQ</p><h2 id="关于内容">关于内容</h2><p>    有关内容的话主要是一些课程笔记和心得、还会有一些小技术的分享以及一些比赛的历程之类的…(anyway我不是想放什么就放什么bushi)</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电基小子</title>
+      <link href="/2025/01/20/Microelectronic-Circuits/"/>
+      <url>/2025/01/20/Microelectronic-Circuits/</url>
+      
+        <content type="html"><![CDATA[<h2 id="课程简介">课程简介</h2><p>    电子电路基础，说白了其实就是——<strong>电路原理+模电</strong></p><p>    前半部分电路原理其实总结起来就是基尔霍夫定律的应用，信电开的课也没有深入去探讨<strong>拓扑学层面</strong>的复杂电路网络，当然，个人认为纯理论的讨论无源阻、容、电感网络对于晶体管电路设计是没什么太大意义的，所以不讲也对，总体来说很简单，期中考试也没怎么复习</p><p>    对于后半部分的话就是模拟电路的知识了，不过我们学院讲课会很奇怪，会区别于市面上买到的各类模电书籍，各个地方知识点深一脚浅一脚，符号规定也不尽相同，这也是深受同学们吐槽的点。而且今年课改又压缩课时，感觉老师很认真在讲，但是就是讲不明白的感觉，哎这门课真的，很抽象确不是抽象在课程知识本身的难度上面。</p><h2 id="学习建议">学习建议</h2><p>    emm感觉上课还是找到一本参考书为好，《Microelectronic Circuits Sedra Smith 7th Edition》这本是推荐的参考书，后来我才发现讲课的逻辑和符号规定一部分是沿用这本教材的，但是这本书是全英文版本的（为了写大作业和理解反馈看了不少，个人感觉比平时认真听课强一点）</p><p>以及平时的话，由于我在那个时候在不断的忙工创比赛，翘了很多节模电部分的课，所以拖到了最后补天</p><h2 id="补天笔记">补天笔记</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 大二秋冬 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 电路原理 </tag>
+            
+            <tag> 模电 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>工程实践与创新能力大赛</title>
+      <link href="/2025/01/20/Engineering-Innovation/"/>
+      <url>/2025/01/20/Engineering-Innovation/</url>
+      
+        <content type="html"><![CDATA[<h1 id="中国大学生工程实践与创新能力大赛">中国大学生工程实践与创新能力大赛</h1><p>先挖个坑，以后慢慢填一下x</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 竞赛 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>XZZD_Aquire_Score</title>
       <link href="/2024/10/23/XZZD-Aquire-Score/"/>
       <url>/2024/10/23/XZZD-Aquire-Score/</url>
@@ -35,7 +94,7 @@
       <link href="/2024/09/22/Mathematical-Modeling/"/>
       <url>/2024/09/22/Mathematical-Modeling/</url>
       
-        <content type="html"><![CDATA[<h1 id="1-课程体验">1. 课程体验</h1><p>    数学建模，唉唉，只能说是博大精深（谢谈神不杀之恩！（滑跪）），十几节课根本体现不出数学建模的核心（其实是脑子，雾），感觉数模包含面太广了，任何一个和数学有关系的问题其实都可以称之为数学建模问题，所以解法、思维方式这些东西，感觉是很难界定的，只能粗犷的划出几个问题的类型（就相当于数学学科的分支一样），运筹学、博弈论、微积分问题、概率论模型…</p><p>    所以总的来说课程体验适中，上课给人一种“见世面”的感觉————“这种问题还能数学化，还真的能求解出结果”；对于期末考试而言，会很容易出现复习了一周，可能你复习的部分考试只考了一丢丢，所以考试真的有点纯看~~“智商”~~“数学素养”了</p><p>  所幸谈神还是很捞的Orz Orz Orz Orz Orz Orz</p><h1 id="2-note">2. Note</h1><blockquote><p>久闻谈神大名，今日一见，颇有几分仙道风骨（评价by课友）（咳咳咳咳bushi）</p></blockquote><p><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0001.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0002.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0003.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0004.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0005.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0006.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0007.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0008.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0009.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0010.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0011.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0012.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0013.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0014.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0015.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0016.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0017.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0018.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0019.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0020.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0021.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0022.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0023.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0024.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0025.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0026.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0027.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0028.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0029.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0031.jpg" alt=""><br><img src="/img/Mathematical-Modeling/Mathematical-Modeling_page-0032.jpg" alt=""></p><p>下面是根据jiepeng gg网站上笔记整理的一份latex笔记（上课内容比较多，只能以复制粘贴+自己的一些些理解为主了）</p><div class="row">    <embed src="/pdf/Mathematical-Modeling.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+        <content type="html"><![CDATA[<h1 id="1-课程体验">1. 课程体验</h1><p>    数学建模，唉唉，只能说是博大精深（谢谈神不杀之恩！（滑跪）），十几节课根本体现不出数学建模的核心（其实是脑子，雾），感觉数模包含面太广了，任何一个和数学有关系的问题其实都可以称之为数学建模问题，所以解法、思维方式这些东西，感觉是很难界定的，只能粗犷的划出几个问题的类型（就相当于数学学科的分支一样），运筹学、博弈论、微积分问题、概率论模型…</p><p><strong>数学建模复习指引————不要复习数学建模</strong><br>    所以总的来说课程体验适中，上课给人一种“见世面”的感觉————“这种问题还能数学化，还真的能求解出结果”；对于期末考试而言，会很容易出现复习了一周，可能你复习的部分考试只考了一丢丢，所以考试真的有点纯看~~“智商”~~“数学素养”了。</p><p>其实在考前一周左右班u就已经开始合作复习了，甚至为此制作了一份复习资料，然而、、复习到的部分很少很少，考出来大家都是集体破防的状态（汗）</p><img src="/img/Mathematical-Modeling/image.png" alt="写于期末考试之后的话" style="zoom:70%;" title = "写于期末考试之后的话"/><p align="right">数学建模复习指引-不要复习数学建模。</p><p align="right">———写于期末考试之后的话   2024/12/29</p><p>    当当当当然，必要的知识点的复习还是需要的，不然成绩还是很容易下4的（个人感觉）（以及这份文件应该会传到下一届工高xpy的手里的我这里就不放了）</p><p>  所幸谈神还是很捞的Orz Orz Orz Orz Orz Orz</p><h1 id="2-note">2. Note</h1><blockquote><p>久闻谈神大名，今日一见，颇有几分仙道风骨（评价by课友）（咳咳咳咳bushi）</p></blockquote><p>下面是根据jiepeng gg网站上笔记整理的一份latex笔记（上课内容比较多，只能以复制粘贴+自己的一些些理解为主了）</p><div class="row">    <embed src="/pdf/Mathematical-Modeling.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
       
       
       <categories>
@@ -65,7 +124,7 @@
       
       <categories>
           
-          <category> 大二秋 </category>
+          <category> 大二秋冬 </category>
           
       </categories>
       
@@ -117,14 +176,14 @@
       
       <categories>
           
-          <category> Solid State Physics </category>
+          <category> 大二秋冬 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 大二秋冬 </tag>
+            <tag> Solid State Physics </tag>
             
         </tags>
       

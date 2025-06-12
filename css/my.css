@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'tzy';
 /* �������Զ��弴�� */
-  src: url("../XiaolaiMonoSC-Regular.ttf");
+  src: url("../XiaolaiMonoSC-Regular.woff2");
 /* �����ļ�·�� */
   font-display: swap;
 }
@@ -53,6 +53,12 @@ body,
 /* �������ɫ */
 figure.highlight pre .addition {
   color: #00bf03 !important;
+}
+mark {
+  background-color: rgba(241,229,7,0.86);
+  color: #000;
+  padding: 2px 4px;
+  border-radius: 4px;
 }
 @-moz-keyframes imgblur {
   0% {

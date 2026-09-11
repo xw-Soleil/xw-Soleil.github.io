@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Soleil&apos;s Blog的友链订阅</title>
+    <dateCreated>2024-10-26T16:00:00Z</dateCreated>
+    <dateModified>2026-09-11T03:35:31.133+00:00[UTC]</dateModified>
+    <ownerName>Soleil</ownerName>
+    <ownerEmail>pxsoleil@gmail.com</ownerEmail>
+    <ownerId>https://github.com/xw-Soleil</ownerId>
+    <docs>https://opml.org/spec2.opml</docs>
+  </head>
+  <body>
+    <outline text="Soleil&apos;s Blog" type="rss" xmlUrl="https://xw-soleil.github.io/atom.xml" created="2024-10-26T16:00:00Z" description="今日事，今日毕" htmlUrl="https://xw-soleil.github.io/"></outline>
+  </body>
+</opml>

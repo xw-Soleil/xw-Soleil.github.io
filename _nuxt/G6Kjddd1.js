@@ -1,0 +1,1 @@
+import{t as e}from"./BKAfXQB_.js";async function t(t){return e(`content`).path(t.path).first()}export{t as default};

@@ -1,0 +1,1 @@
+var e=(e,t=2)=>({"--delay":`${e.toFixed(t)}s`});export{e as t};

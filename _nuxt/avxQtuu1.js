@@ -1,0 +1,1 @@
+import{G as e,V as t,d as n,m as r}from"./ZwfCjgWw.js";import{t as i}from"./BDNMzG2s.js";var a={},o={class:`secret-container`},s={class:`secret`};function c(i,a){return t(),r(`div`,o,[n(`div`,s,[e(i.$slots,`default`,{},void 0,!0)])])}var l=Object.assign(i(a,[[`render`,c],[`__scopeId`,`data-v-6c19740c`]]),{__name:`ZSecret`});export{l as t};

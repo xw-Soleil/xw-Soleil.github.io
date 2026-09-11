@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://xw-soleil.github.io/</id>
+  <title>Soleil&apos;s Blog</title>
+  <updated>2026-09-11T03:35:31.133+00:00[UTC]</updated>
+  <description>Soleil 的个人博客。Junior at Zhejiang University, 23 · ISEE &amp; ACEE。课程笔记、竞赛记录与折腾日常。</description>
+  <author>
+    <name>Soleil</name>
+    <email>pxsoleil@gmail.com</email>
+    <uri>https://github.com/xw-Soleil</uri>
+  </author>
+  <link href="https://xw-soleil.github.io/atom.xml" rel="self"></link>
+  <link href="https://xw-soleil.github.io/" rel="alternate"></link>
+  <language>zh-CN</language>
+  <generator uri="https://github.com/L33Z22L11/blog-v3" version="3.7.2">Clarity</generator>
+  <icon>/img/myavatar.jpg</icon>
+  <logo>/img/myavatar.jpg</logo>
+  <rights>© 2026 Soleil</rights>
+  <subtitle>今日事，今日毕</subtitle>
+  <entry>
+    <id>https://xw-soleil.github.io/2025/01/20/TOP</id>
+    <title>置顶</title>
+    <updated>3025-01-20T13:53:36Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[<img src="/img/Cat.jpg" alt="置顶" /> <p>这里是置顶文章，会放一些公告或者其他什么东西的地方~~</p> <a class="view-full" href="https://xw-soleil.github.io/2025/01/20/TOP" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/2025/01/20/TOP"></link>
+    <summary>这里是置顶文章，会放一些公告或者其他什么东西的地方~~</summary>
+    <category term="置顶"></category>
+    <published>3025-01-20T13:53:36Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter3-device</id>
+    <title>Chapter 3：器件 Device</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>二极管与 MOS 管的直观工作原理、基本器件方程，以及二阶效应和深亚微米效应。</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter3-device" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter3-device"></link>
+    <summary>二极管与 MOS 管的直观工作原理、基本器件方程，以及二阶效应和深亚微米效应。</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter12-arithmetic</id>
+    <title>Chapter 12：算术运算电路 Arithmetic</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>加法器、比较器与计数器等基本算术电路的结构与延迟分析。</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter12-arithmetic" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter12-arithmetic"></link>
+    <summary>加法器、比较器与计数器等基本算术电路的结构与延迟分析。</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter13-memory</id>
+    <title>Chapter 13：存储器 Memory</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>存储器的层次结构与访问时序，以及 SRAM 单元的读写电路设计。</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter13-memory" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter13-memory"></link>
+    <summary>存储器的层次结构与访问时序，以及 SRAM 单元的读写电路设计。</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter14</id>
+    <title>Chapter 14</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>该章节飞书文档正文为空，暂无笔记内容。</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter14" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter14"></link>
+    <summary>该章节飞书文档正文为空，暂无笔记内容。</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/pastexams/midterm2022</id>
+    <title>2022 期中试题</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>2022 年数字集成电路设计期中试题。</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/pastexams/midterm2022" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/pastexams/midterm2022"></link>
+    <summary>2022 年数字集成电路设计期中试题。</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/pastexams/midterm2023</id>
+    <title>2023 期中试题</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>2023 年数字集成电路设计期中试题。</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/pastexams/midterm2023" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/pastexams/midterm2023"></link>
+    <summary>2023 年数字集成电路设计期中试题。</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/pastexams/finalpolished</id>
+    <title>期末历年卷（AI 润色版）</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>历年期末试卷合集，原文档以 PDF 附件形式呈现，本转换流程无法读取附件正文，仅保留文件名索引。</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/pastexams/finalpolished" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/pastexams/finalpolished"></link>
+    <summary>历年期末试卷合集，原文档以 PDF 附件形式呈现，本转换流程无法读取附件正文，仅保留文件名索引。</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/examrecall2026</id>
+    <title>数字集成电路回忆 2026</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>2026 年数字集成电路设计期末考试回忆整理。</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/examrecall2026" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/examrecall2026"></link>
+    <summary>2026 年数字集成电路设计期末考试回忆整理。</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter4-wire</id>
+    <title>Chapter 4：导线 Wire</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>导线的寄生参数、电阻电容模型（集总/分布 RC），以及互连延迟的估算方法。</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter4-wire" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter4-wire"></link>
+    <summary>导线的寄生参数、电阻电容模型（集总/分布 RC），以及互连延迟的估算方法。</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter5-inverter</id>
+    <title>Chapter 5：CMOS 反相器 Inverter</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>CMOS 反相器的静态特性（开关阈值、噪声容限）与动态特性（寄生电容、延迟）。</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter5-inverter" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter5-inverter"></link>
+    <summary>CMOS 反相器的静态特性（开关阈值、噪声容限）与动态特性（寄生电容、延迟）。</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter6-logicgate</id>
+    <title>Chapter 6：逻辑门 Logic Gate</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>静态与动态 CMOS 电路风格的对比，以及各类组合逻辑门设计的取舍。</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter6-logicgate" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter6-logicgate"></link>
+    <summary>静态与动态 CMOS 电路风格的对比，以及各类组合逻辑门设计的取舍。</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter7-sequentiallogic</id>
+    <title>Chapter 7：时序逻辑 Sequential Logic</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>锁存器与触发器的结构、时序约束，以及动态寄存器和流水线设计。</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter7-sequentiallogic" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter7-sequentiallogic"></link>
+    <summary>锁存器与触发器的结构、时序约束，以及动态寄存器和流水线设计。</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter8-speed</id>
+    <title>Chapter 8：延迟与速度 Speed</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>门延迟的估算方法，包括 RC 模型、Elmore delay 与逻辑努力（logical effort）。</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter8-speed" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter8-speed"></link>
+    <summary>门延迟的估算方法，包括 RC 模型、Elmore delay 与逻辑努力（logical effort）。</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter9-power</id>
+    <title>Chapter 9：功耗 Power</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>工艺缩放对功耗的影响，以及动态与静态功耗的来源和优化手段。</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter9-power" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter9-power"></link>
+    <summary>工艺缩放对功耗的影响，以及动态与静态功耗的来源和优化手段。</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter10-interconnect</id>
+    <title>Chapter 10：互连 Interconnect</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>串扰、噪声与互连延迟的成因，以及互连线的设计与优化策略。</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter10-interconnect" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter10-interconnect"></link>
+    <summary>串扰、噪声与互连延迟的成因，以及互连线的设计与优化策略。</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter11-timing</id>
+    <title>Chapter 11：时序 Timing</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>时钟偏差与抖动、建立/保持时间约束，以及时钟分配网络的设计。</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter11-timing" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign/chapter11-timing"></link>
+    <summary>时钟偏差与抖动、建立/保持时间约束，以及时钟分配网络的设计。</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign</id>
+    <title>数字集成电路设计</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>大三下数字集成电路设计课程笔记，从器件与导线模型讲到反相器、逻辑门、时序电路、互连、功耗与算术/存储电路，附历年期中期末试题。</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/digitalicdesign"></link>
+    <summary>大三下数字集成电路设计课程笔记，从器件与导线模型讲到反相器、逻辑门、时序电路、互连、功耗与算术/存储电路，附历年期中期末试题。</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l1-intro</id>
+    <title>L1：计算机发展史与体系结构导论</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>计算机发展简史、处理器产业链、ISA 与体系结构的定义，以及执行时间/CPI 性能公式</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l1-intro" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l1-intro"></link>
+    <summary>计算机发展简史、处理器产业链、ISA 与体系结构的定义，以及执行时间/CPI 性能公式</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l8-9-memory</id>
+    <title>L8-9：存储器层次结构</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>DRAM 结构与发展历史、存储器阵列与行/列访问，以及存储器层次相关笔记</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l8-9-memory" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l8-9-memory"></link>
+    <summary>DRAM 结构与发展历史、存储器阵列与行/列访问，以及存储器层次相关笔记</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l10-11-parallelism</id>
+    <title>L10-11：并行性</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>从 SIMD、GEMM 分块到 ILP/VLIW 静态调度，再到多核与硬件多线程的并行技术梳理</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l10-11-parallelism" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l10-11-parallelism"></link>
+    <summary>从 SIMD、GEMM 分块到 ILP/VLIW 静态调度，再到多核与硬件多线程的并行技术梳理</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l12-cachecoherence</id>
+    <title>L12：缓存一致性 Cache Coherence</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>多处理器共享内存背景、snoopy/directory 一致性协议、memory consistency 与 fence 指令笔记</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l12-cachecoherence" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l12-cachecoherence"></link>
+    <summary>多处理器共享内存背景、snoopy/directory 一致性协议、memory consistency 与 fence 指令笔记</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l13-14-complexpipeline</id>
+    <title>L13-14：复杂流水线（衔接 L7）</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>在 L7 基础上展开的乱序执行、指令发射与调度等复杂流水线机制</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l13-14-complexpipeline" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l13-14-complexpipeline"></link>
+    <summary>在 L7 基础上展开的乱序执行、指令发射与调度等复杂流水线机制</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l15</id>
+    <title>L15：期末复习问答</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>围绕系统调用、DMA、MMIO 与存储介质等考点整理的问答式期末复习笔记</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l15" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l15"></link>
+    <summary>围绕系统调用、DMA、MMIO 与存储介质等考点整理的问答式期末复习笔记</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l2-binary</id>
+    <title>L2：二进制数制</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>飞书原文档为空白占位，未见实际笔记内容</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l2-binary" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l2-binary"></link>
+    <summary>飞书原文档为空白占位，未见实际笔记内容</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l3-cmemory</id>
+    <title>L3：C 语言与内存模型</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>C 的编译与解释、寄存器与内存布局、指针与数组、栈与堆内存管理笔记</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l3-cmemory" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l3-cmemory"></link>
+    <summary>C 的编译与解释、寄存器与内存布局、指针与数组、栈与堆内存管理笔记</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l4a-wbx</id>
+    <title>L4a：wbx</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>飞书原文档为空白占位，未见实际笔记内容</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l4a-wbx" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l4a-wbx"></link>
+    <summary>飞书原文档为空白占位，未见实际笔记内容</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l4b-machinecode</id>
+    <title>L4b：机器码 Machine Code</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>飞书原文档为空白占位；据 L5 笔记中的引用推断本讲主题为机器码，但内容未填写</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l4b-machinecode" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l4b-machinecode"></link>
+    <summary>飞书原文档为空白占位；据 L5 笔记中的引用推断本讲主题为机器码，但内容未填写</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l5-dsd</id>
+    <title>L5：数字系统设计 Digital System Design</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>CMOS 逻辑门与 RISC-V 数据通路的同步时序设计，触发器与建立/保持时间的计算</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l5-dsd" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l5-dsd"></link>
+    <summary>CMOS 逻辑门与 RISC-V 数据通路的同步时序设计，触发器与建立/保持时间的计算</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l6a-singlecycle</id>
+    <title>L6a：单周期处理器设计</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>RV32I 单周期数据通路的搭建，从 ADD/ADDI 到 Load/Store 与分支指令的电路实现</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l6a-singlecycle" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l6a-singlecycle"></link>
+    <summary>RV32I 单周期数据通路的搭建，从 ADD/ADDI 到 Load/Store 与分支指令的电路实现</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l6b-microcode</id>
+    <title>L6b：微码处理器架构</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>微码 ROM 大小计算与单总线数据通路设计，取指-译码-执行的微指令流程举例</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l6b-microcode" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l6b-microcode"></link>
+    <summary>微码 ROM 大小计算与单总线数据通路设计，取指-译码-执行的微指令流程举例</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l7-pipeline</id>
+    <title>L7：流水线处理器</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>流水线基本概念与结构/数据/控制冒险，以及静态调度、多发射与乱序执行入门</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l7-pipeline" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization/l7-pipeline"></link>
+    <summary>流水线基本概念与结构/数据/控制冒险，以及静态调度、多发射与乱序执行入门</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization</id>
+    <title>计算机组成与系统结构</title>
+    <updated>2026-09-10T13:14:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>计组课程笔记，从处理器发展史、ISA 与数字系统设计，到流水线、存储层次、并行与缓存一致性的整理</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-spring/computerorganization"></link>
+    <summary>计组课程笔记，从处理器发展史、ISA 与数字系统设计，到流水线、存储层次、并行与缓存一致性的整理</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T13:14:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-autumn/analogicdesign/finalexamreview</id>
+    <title>期末考试整理</title>
+    <updated>2026-09-10T12:29:09Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>模拟集成电路设计：期末考试整理</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-autumn/analogicdesign/finalexamreview" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-autumn/analogicdesign/finalexamreview"></link>
+    <summary>模拟集成电路设计：期末考试整理</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T12:29:09Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-autumn/analogicdesign/midtermexam2425</id>
+    <title>24-25 期中</title>
+    <updated>2026-09-10T12:29:00Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>模拟集成电路设计：24-25 学年期中考试整理</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-autumn/analogicdesign/midtermexam2425" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-autumn/analogicdesign/midtermexam2425"></link>
+    <summary>模拟集成电路设计：24-25 学年期中考试整理</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T12:29:00Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-autumn/analogicdesign/beforemidterm</id>
+    <title>期中前</title>
+    <updated>2026-09-10T12:28:52Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>模拟集成电路设计：期中前内容整理； btw 这个写的有点过于意识流了，大家随便看看就好了，重点还是 ppt 和书以及历年卷</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-autumn/analogicdesign/beforemidterm" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-autumn/analogicdesign/beforemidterm"></link>
+    <summary>模拟集成电路设计：期中前内容整理； btw 这个写的有点过于意识流了，大家随便看看就好了，重点还是 ppt 和书以及历年卷</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T12:28:52Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/detailed/chapter8-cprogramminginunix</id>
+    <title>Chapter 8：C Programming in Unix</title>
+    <updated>2026-09-10T12:27:57Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>Unix 下的 C 编程：详细版笔记</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/detailed/chapter8-cprogramminginunix" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/detailed/chapter8-cprogramminginunix"></link>
+    <summary>Unix 下的 C 编程：详细版笔记</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T12:27:57Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/detailed/chapter7-softwaredevelopmenttools</id>
+    <title>Chapter 7：Software Development Tools</title>
+    <updated>2026-09-10T12:27:54Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>软件开发工具：详细版笔记</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/detailed/chapter7-softwaredevelopmenttools" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/detailed/chapter7-softwaredevelopmenttools"></link>
+    <summary>软件开发工具：详细版笔记</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T12:27:54Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/detailed/chapter6-xwindow</id>
+    <title>Chapter 6：Xwindow</title>
+    <updated>2026-09-10T12:27:53Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>X Window 系统：详细版笔记</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/detailed/chapter6-xwindow" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/detailed/chapter6-xwindow"></link>
+    <summary>X Window 系统：详细版笔记</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T12:27:53Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/detailed/chapter5-administration</id>
+    <title>Chapter 5：Administration</title>
+    <updated>2026-09-10T12:27:51Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>系统管理：详细版笔记</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/detailed/chapter5-administration" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/detailed/chapter5-administration"></link>
+    <summary>系统管理：详细版笔记</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T12:27:51Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/detailed/chapter4-network</id>
+    <title>Chapter 4：Network</title>
+    <updated>2026-09-10T12:27:49Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>计算机网络：详细版笔记</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/detailed/chapter4-network" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/detailed/chapter4-network"></link>
+    <summary>计算机网络：详细版笔记</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T12:27:49Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/detailed/chapter3-viandshell</id>
+    <title>Chapter 3：Vi and Shell</title>
+    <updated>2026-09-10T12:27:41Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>Vi 编辑器与 Shell：详细版笔记</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/detailed/chapter3-viandshell" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/detailed/chapter3-viandshell"></link>
+    <summary>Vi 编辑器与 Shell：详细版笔记</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T12:27:41Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/detailed/chapter2-introductiontounix</id>
+    <title>Chapter 2：Introduction to Unix</title>
+    <updated>2026-09-10T12:27:40Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>Unix 基础导论：详细版笔记</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/detailed/chapter2-introductiontounix" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/detailed/chapter2-introductiontounix"></link>
+    <summary>Unix 基础导论：详细版笔记</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T12:27:40Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/detailed/chapter1-introduction</id>
+    <title>Chapter 1：Introduction</title>
+    <updated>2026-09-10T12:27:26Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>课程导论：详细版笔记</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/detailed/chapter1-introduction" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/detailed/chapter1-introduction"></link>
+    <summary>课程导论：详细版笔记</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T12:27:26Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/pastexams/examrecall23</id>
+    <title>不知名回忆卷 2/3</title>
+    <updated>2026-09-10T12:26:52Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>历年考卷回忆整理 2、3</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/pastexams/examrecall23" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/pastexams/examrecall23"></link>
+    <summary>历年考卷回忆整理 2、3</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T12:26:52Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/pastexams/examrecall1</id>
+    <title>不知名回忆卷 1</title>
+    <updated>2026-09-10T12:26:51Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>历年考卷回忆整理 1</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/pastexams/examrecall1" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/pastexams/examrecall1"></link>
+    <summary>历年考卷回忆整理 1</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T12:26:51Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/pastexams/exam2021</id>
+    <title>20-21 历年卷</title>
+    <updated>2026-09-10T12:26:50Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>历年考卷整理：20-21 学年</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/pastexams/exam2021" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/pastexams/exam2021"></link>
+    <summary>历年考卷整理：20-21 学年</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T12:26:50Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/pastexams/examautumn2223</id>
+    <title>22-23 秋冬历年卷</title>
+    <updated>2026-09-10T12:26:49Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>历年考卷整理：22-23 秋冬学期</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/pastexams/examautumn2223" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/pastexams/examautumn2223"></link>
+    <summary>历年考卷整理：22-23 秋冬学期</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T12:26:49Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/systemdevelopmenttools</id>
+    <title>System Development Tools</title>
+    <updated>2026-09-10T12:26:47Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>系统开发工具</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/systemdevelopmenttools" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/systemdevelopmenttools"></link>
+    <summary>系统开发工具</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T12:26:47Z</published>
+  </entry>
+  <entry>
+    <id>https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/xwindow</id>
+    <title>XWindow</title>
+    <updated>2026-09-10T12:26:45Z</updated>
+    <author>
+      <name>Soleil</name>
+    </author>
+    <content type="html">
+      <![CDATA[ <p>X Window 图形界面系统</p> <a class="view-full" href="https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/xwindow" target="_blank">点击查看全文</a>]]>
+    </content>
+    <link href="https://xw-soleil.github.io/ugcourses/junior-autumn/iccad/xwindow"></link>
+    <summary>X Window 图形界面系统</summary>
+    <category term="本科课程"></category>
+    <published>2026-09-10T12:26:45Z</published>
+  </entry>
+</feed>

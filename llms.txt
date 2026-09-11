@@ -1,0 +1,121 @@
+# Soleil's Blog
+
+> Soleil 的个人博客。Junior at Zhejiang University, 23 · ISEE & ACEE。课程笔记、竞赛记录与折腾日常。
+
+## Content
+
+- [关于](https://xw-soleil.github.io/raw/about.md): 关于本站与作者
+- [Link](https://xw-soleil.github.io/raw/link.md): 欢迎各位交换友链！在评论区留言即可，格式如下：
+- [XZZD_Aquire_Score](https://xw-soleil.github.io/raw/2024/10/23/XZZD-Aquire-Score.md): 这个记得是jiepeng哥一开始写了个只能查看作业分数的脚本，后来无意间发现了一个更好的包，后面便结合着gpt改良了一下；
+- [东四——隐秘的角落](https://xw-soleil.github.io/raw/2024/07/07/elec-design-contest-2024.md): Your browser does not support the video tag.
+- [about力学](https://xw-soleil.github.io/raw/2024/07/08/mechanics.md): 从高中的时候就一直想总结一下，但苦于没有时间。
+- [纪念最好的大二五组 - Soleil 的 电赛回忆录](https://xw-soleil.github.io/raw/2025/08/26/25GElecDesignContest.md): 既然@零海星 已经这么快写了，那我也来写点
+- [工程实践与创新能力大赛](https://xw-soleil.github.io/raw/2025/01/20/Engineering-Innovation.md): 先挖个坑，以后慢慢填一下x
+- [置顶](https://xw-soleil.github.io/raw/2025/01/20/TOP.md): 这里是置顶文章，会放一些公告或者其他什么东西的地方~~
+- [工程图学期末复习](https://xw-soleil.github.io/raw/2024/06/30/engineering-drawing-notes.md): 工图这门课知识点很琐碎，很细很细，而且期末占比比较大，期末得分也有一定成分看老师判卷松紧
+- [大一春夏](https://xw-soleil.github.io/raw/ugcourses/freshman-spring.md): 大一春夏的学习资料与经验分享
+- [复变函数与积分变换](https://xw-soleil.github.io/raw/2025/01/21/Complex-Analysis.md): 数学课嘛，感觉其实没什么好说的，想要出成绩就得平时跟住老师的上课进度，然后再加点自己的理解和额外拓展；
+- [马克思主义基本原理](https://xw-soleil.github.io/raw/2025/06/06/FundamentalsMarxism.md): 通过网盘分享的文件：马克思主义基本原理
+- [数学建模（课程）](https://xw-soleil.github.io/raw/2024/09/22/Mathematical-Modeling.md): 数学建模，唉唉，只能说是博大精深（谢谈神不杀之恩！（滑跪）），十几节课根本体现不出数学建模的核心（数学建模核心其实是脑子，雾），感觉数模包含面太广了，任何一个和…
+- [电基小子](https://xw-soleil.github.io/raw/2025/01/20/Microelectronic-Circuits.md): 电子电路基础，说白了其实就是——电路原理+模电
+- [数值分析方法](https://xw-soleil.github.io/raw/2024/09/19/Mumerical-Analysis.md): 很好的一门课，没得说，确实会学到很多东西（当然这门课有点线代+微积分+算法的味道，个人感觉还比较喜欢这种）
+- [概率论与数理统计](https://xw-soleil.github.io/raw/2025/01/21/Probability-Theory.md): emm很经典的数学课程，而且难度对比微积分和线性代数的话降低了不少；同时这门课分数占比是期末考试占比40%，小测+作业占比60%，相对而言只有期末考试，期末考试…
+- [工程训练](https://xw-soleil.github.io/raw/2024/09/17/engineering-training.md): 工训这门课单纯不看绩点的话，还是非常好玩的一门课，虽然可能有点看动手能力，但是其实就是跟着老师的操作复刻一遍的事情，相对来说还是体验比较不错（但是1L抽象老师除…
+- [大二秋冬](https://xw-soleil.github.io/raw/ugcourses/sophomore-autumn.md): 大二秋冬的学习资料与经验分享
+- [固体物理基础](https://xw-soleil.github.io/raw/2024/09/11/solid-state-physics.md): 感觉和这个8友体验蛮像的cc98固体物理课程体验，不过其实我个人更喜欢cz老师的讲课风格，基于理论推导一点点展开而不是光动脑子定性的去想为什么；感觉lyb老师有…
+- [人工智能前沿](https://xw-soleil.github.io/raw/ugcourses/sophomore-spring/aifrontier.md): 人工智能前沿课程笔记，整理自 qsgg、bxgg 手写梳理稿和 B 站课程
+- [数字系统设计](https://xw-soleil.github.io/raw/ugcourses/sophomore-spring/digitalsys.md): ISEE:贱狗，折磨自己吧！
+- [毛概](https://xw-soleil.github.io/raw/2025/06/12/MaoTheory.md): 说实话，毛概还是没什么时间来准备，其实最后发现东西还是很多很多，真要背的话建议多打点提前量，感觉到了考场考出来还是很一般，选择题不知道对了几个（笑哭），只能说选…
+- [大二春夏](https://xw-soleil.github.io/raw/ugcourses/sophomore-spring.md): 大二春夏的学习资料与经验分享
+- [Lecture 1：摩尔定律与 CMOS](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/microelectronic-devices/lecture1.md): 摩尔定律、集成电路的实现方式以及为什么选用 CMOS 数字集成电路
+- [Lecture 10：从 MOS 电容到 MOSFET](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/microelectronic-devices/lecture10.md): CCD 与 CMOS 成像器、MOS 电容回顾、场效应晶体管的发明、现代 FET 结构、互补 MOSFET 与 NMOSFET 工作原理
+- [Lecture 11：亚阈值效应与 MOSFET 尺寸缩放](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/microelectronic-devices/lecture11.md): 亚阈值电流与亚阈值斜率、玻尔兹曼极限、小信号模型与截止频率、MOSFET 尺寸缩放对电路性能的影响、载流子速度饱和效应
+- [Lecture 12：MOSFET 尺寸缩微](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/microelectronic-devices/lecture12.md): 技术微缩与摩尔定律、短沟道效应、减小栅绝缘层电学厚度与隧穿电流
+- [Lecture 13：MOS 新范式](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/microelectronic-devices/lecture13.md): 栅极控制能力与新晶体管结构、Thin-Body MOSFET、双栅/三栅结构、FinFET 的发明与演进、SOI 与 3-D 器件结构、FinFET 延续摩尔定律
+- [Lecture 2：半导体基础](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/microelectronic-devices/lecture2.md): 半导体的定义与晶体结构、能带理论与带隙、电子与空穴、态密度、掺杂、热平衡、费米狄拉克统计与载流子浓度
+- [Lecture 3：费米能级、载流子散射与迁移率](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/microelectronic-devices/lecture3.md): 费米能级随掺杂与温度的变化、本征费米能级、简并掺杂与带隙变窄、n 与 p 的一般理论、极端温度下的载流子浓度、有效质量、热运动、三种散射机制、漂移与迁移率、马西森定则与速度饱和
+- [Lecture 4：漂移电流、扩散电流与产生复合](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/microelectronic-devices/lecture4.md): 漂移电流密度、电导率与电阻率、静电势与电场、扩散电流、爱因斯坦关系、总电流方程、产生与复合、直接/间接带隙、过剩载流子浓度与低水平注入
+- [Lecture 5：PN 结与耗尽区](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/microelectronic-devices/lecture5.md): PN 结的制备与理想模型、电荷密度与泊松方程、耗尽近似、内建电势、电容电压特性、反向偏置与击穿（隧穿击穿、雪崩击穿）
+- [Lecture 6：正向偏置 PN 结与理想二极管方程](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/microelectronic-devices/lecture6.md): 正向偏置与低水平注入、结定律、连续性方程与扩散方程、理想晶体管 I-V 方程的推导
+- [Lecture 7：金半接触](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/microelectronic-devices/lecture7.md): 功函数与能带对齐、肖特基接触与整流特性、欧姆接触，以及两者的对比总结
+- [Lecture 8：PN 结在光电领域的应用](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/microelectronic-devices/lecture8.md): 基于 PN 结的光伏电池、太阳能电池 I-V 特性、太阳能光伏电池的四代技术
+- [Lecture 9：MOS 电容](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/microelectronic-devices/lecture9.md): MOS 电容结构与能带弯曲、平带电压、表面积累、表面耗尽、阈值电压、强反型、MOS 电容的积累/耗尽/反型电容与准静态 C-V 曲线
+- [期中复习题](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/microelectronic-devices/midtermexam.md): 24-25 学年期中复习题：杂质散射与迁移率、Matthiessen 定则、有效质量、速度饱和、漂移与扩散、载流子产生、低水平注入、准费米能级
+- [押题密卷](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/microelectronic-devices/mockexam.md): 金半接触复习，肖特基二极管与 PN 结二极管的对比
+- [微电子器件](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/microelectronic-devices.md): 微电子器件课程笔记，按 Lecture 整理，中英对照
+- [History & Meta Characters](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/iccad/historymetacharacters.md): Unix/Linux 发展简史与 Shell 元字符
+- [22-23 秋冬历年卷](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/iccad/pastexams/examautumn2223.md): 历年考卷整理：22-23 秋冬学期
+- [20-21 历年卷](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/iccad/pastexams/exam2021.md): 历年考卷整理：20-21 学年
+- [不知名回忆卷 1](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/iccad/pastexams/examrecall1.md): 历年考卷回忆整理 1
+- [不知名回忆卷 2/3](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/iccad/pastexams/examrecall23.md): 历年考卷回忆整理 2、3
+- [Chapter 1：Introduction](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/iccad/detailed/chapter1-introduction.md): 课程导论：详细版笔记
+- [Chapter 2：Introduction to Unix](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/iccad/detailed/chapter2-introductiontounix.md): Unix 基础导论：详细版笔记
+- [Chapter 3：Vi and Shell](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/iccad/detailed/chapter3-viandshell.md): Vi 编辑器与 Shell：详细版笔记
+- [Chapter 4：Network](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/iccad/detailed/chapter4-network.md): 计算机网络：详细版笔记
+- [Chapter 5：Administration](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/iccad/detailed/chapter5-administration.md): 系统管理：详细版笔记
+- [Chapter 6：Xwindow](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/iccad/detailed/chapter6-xwindow.md): X Window 系统：详细版笔记
+- [Chapter 7：Software Development Tools](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/iccad/detailed/chapter7-softwaredevelopmenttools.md): 软件开发工具：详细版笔记
+- [Chapter 8：C Programming in Unix](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/iccad/detailed/chapter8-cprogramminginunix.md): Unix 下的 C 编程：详细版笔记
+- [Linux & Unix](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/iccad/linuxunix.md): Linux 与 Unix 基础
+- [Vi](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/iccad/vi.md): Vi 编辑器基础操作
+- [Vi（详细版）](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/iccad/vicopy.md): Vi 编辑器的扩展笔记，比基础版更详细
+- [Shells](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/iccad/shells.md): Shell 基础与常用命令
+- [Network](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/iccad/network.md): 计算机网络基础
+- [System Administration](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/iccad/systemadministration.md): 系统管理基础
+- [XWindow](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/iccad/xwindow.md): X Window 图形界面系统
+- [System Development Tools](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/iccad/systemdevelopmenttools.md): 系统开发工具
+- [面向 ICCAD 的软件基础技术](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/iccad.md): ICCAD课程笔记，其实本质就是 Linux 基础
+- [飞起来1.0](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/hdl/feiqilai1.md): HDL 期末复习：Verilog 基础、设计基础、加法器/乘法器、浮点、流水线与协处理器，附练习示例
+- [飞起来2.0](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/hdl/feiqilai2.md): HDL 期末复习：典型代码（全加器、移位器、D 触发器、计数器）与综合问题解析
+- [飞起来3.0](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/hdl/feiqilai3.md): HDL 课程复习资料
+- [Lecture 13：浮点数标准](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/hdl/lecture13.md): IEEE 浮点数标准的表示与运算
+- [Lecture 6：Behavioral Modeling，非阻塞赋值](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/hdl/lecture6.md): 行为级建模中的非阻塞赋值，阻塞与非阻塞赋值的区别
+- [与PPT的对应](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/hdl/pptcorrespondence.md): 课程笔记与 PPT 章节的对应关系
+- [硬件描述语言原理与应用](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/hdl.md): 飞儿课程笔记
+- [期中前](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/analogicdesign/beforemidterm.md): 模拟集成电路设计：期中前内容整理； btw 这个写的有点过于意识流了，大家随便看看就好了，重点还是 ppt 和书以及历年卷
+- [24-25 期中](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/analogicdesign/midtermexam2425.md): 模拟集成电路设计：24-25 学年期中考试整理
+- [期末考试整理](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/analogicdesign/finalexamreview.md): 模拟集成电路设计：期末考试整理
+- [模拟集成电路设计](https://xw-soleil.github.io/raw/ugcourses/junior-autumn/analogicdesign.md): 模拟集成电路设计课程笔记
+- [大三秋冬](https://xw-soleil.github.io/raw/ugcourses/junior-autumn.md): 大三秋冬的学习资料与经验分享
+- [Chapter 3：器件 Device](https://xw-soleil.github.io/raw/ugcourses/junior-spring/digitalicdesign/chapter3-device.md): 二极管与 MOS 管的直观工作原理、基本器件方程，以及二阶效应和深亚微米效应。
+- [Chapter 12：算术运算电路 Arithmetic](https://xw-soleil.github.io/raw/ugcourses/junior-spring/digitalicdesign/chapter12-arithmetic.md): 加法器、比较器与计数器等基本算术电路的结构与延迟分析。
+- [Chapter 13：存储器 Memory](https://xw-soleil.github.io/raw/ugcourses/junior-spring/digitalicdesign/chapter13-memory.md): 存储器的层次结构与访问时序，以及 SRAM 单元的读写电路设计。
+- [Chapter 14](https://xw-soleil.github.io/raw/ugcourses/junior-spring/digitalicdesign/chapter14.md): 该章节飞书文档正文为空，暂无笔记内容。
+- [2022 期中试题](https://xw-soleil.github.io/raw/ugcourses/junior-spring/digitalicdesign/pastexams/midterm2022.md): 2022 年数字集成电路设计期中试题。
+- [2023 期中试题](https://xw-soleil.github.io/raw/ugcourses/junior-spring/digitalicdesign/pastexams/midterm2023.md): 2023 年数字集成电路设计期中试题。
+- [期末历年卷（AI 润色版）](https://xw-soleil.github.io/raw/ugcourses/junior-spring/digitalicdesign/pastexams/finalpolished.md): 历年期末试卷合集，原文档以 PDF 附件形式呈现，本转换流程无法读取附件正文，仅保留文件名索引。
+- [数字集成电路回忆 2026](https://xw-soleil.github.io/raw/ugcourses/junior-spring/digitalicdesign/examrecall2026.md): 2026 年数字集成电路设计期末考试回忆整理。
+- [Chapter 4：导线 Wire](https://xw-soleil.github.io/raw/ugcourses/junior-spring/digitalicdesign/chapter4-wire.md): 导线的寄生参数、电阻电容模型（集总/分布 RC），以及互连延迟的估算方法。
+- [Chapter 5：CMOS 反相器 Inverter](https://xw-soleil.github.io/raw/ugcourses/junior-spring/digitalicdesign/chapter5-inverter.md): CMOS 反相器的静态特性（开关阈值、噪声容限）与动态特性（寄生电容、延迟）。
+- [Chapter 6：逻辑门 Logic Gate](https://xw-soleil.github.io/raw/ugcourses/junior-spring/digitalicdesign/chapter6-logicgate.md): 静态与动态 CMOS 电路风格的对比，以及各类组合逻辑门设计的取舍。
+- [Chapter 7：时序逻辑 Sequential Logic](https://xw-soleil.github.io/raw/ugcourses/junior-spring/digitalicdesign/chapter7-sequentiallogic.md): 锁存器与触发器的结构、时序约束，以及动态寄存器和流水线设计。
+- [Chapter 8：延迟与速度 Speed](https://xw-soleil.github.io/raw/ugcourses/junior-spring/digitalicdesign/chapter8-speed.md): 门延迟的估算方法，包括 RC 模型、Elmore delay 与逻辑努力（logical effort）。
+- [Chapter 9：功耗 Power](https://xw-soleil.github.io/raw/ugcourses/junior-spring/digitalicdesign/chapter9-power.md): 工艺缩放对功耗的影响，以及动态与静态功耗的来源和优化手段。
+- [Chapter 10：互连 Interconnect](https://xw-soleil.github.io/raw/ugcourses/junior-spring/digitalicdesign/chapter10-interconnect.md): 串扰、噪声与互连延迟的成因，以及互连线的设计与优化策略。
+- [Chapter 11：时序 Timing](https://xw-soleil.github.io/raw/ugcourses/junior-spring/digitalicdesign/chapter11-timing.md): 时钟偏差与抖动、建立/保持时间约束，以及时钟分配网络的设计。
+- [数字集成电路设计](https://xw-soleil.github.io/raw/ugcourses/junior-spring/digitalicdesign.md): 大三下数字集成电路设计课程笔记，从器件与导线模型讲到反相器、逻辑门、时序电路、互连、功耗与算术/存储电路，附历年期中期末试题。
+- [L1：计算机发展史与体系结构导论](https://xw-soleil.github.io/raw/ugcourses/junior-spring/computerorganization/l1-intro.md): 计算机发展简史、处理器产业链、ISA 与体系结构的定义，以及执行时间/CPI 性能公式
+- [L8-9：存储器层次结构](https://xw-soleil.github.io/raw/ugcourses/junior-spring/computerorganization/l8-9-memory.md): DRAM 结构与发展历史、存储器阵列与行/列访问，以及存储器层次相关笔记
+- [L10-11：并行性](https://xw-soleil.github.io/raw/ugcourses/junior-spring/computerorganization/l10-11-parallelism.md): 从 SIMD、GEMM 分块到 ILP/VLIW 静态调度，再到多核与硬件多线程的并行技术梳理
+- [L12：缓存一致性 Cache Coherence](https://xw-soleil.github.io/raw/ugcourses/junior-spring/computerorganization/l12-cachecoherence.md): 多处理器共享内存背景、snoopy/directory 一致性协议、memory consistency 与 fence 指令笔记
+- [L13-14：复杂流水线（衔接 L7）](https://xw-soleil.github.io/raw/ugcourses/junior-spring/computerorganization/l13-14-complexpipeline.md): 在 L7 基础上展开的乱序执行、指令发射与调度等复杂流水线机制
+- [L15：期末复习问答](https://xw-soleil.github.io/raw/ugcourses/junior-spring/computerorganization/l15.md): 围绕系统调用、DMA、MMIO 与存储介质等考点整理的问答式期末复习笔记
+- [L2：二进制数制](https://xw-soleil.github.io/raw/ugcourses/junior-spring/computerorganization/l2-binary.md): 飞书原文档为空白占位，未见实际笔记内容
+- [L3：C 语言与内存模型](https://xw-soleil.github.io/raw/ugcourses/junior-spring/computerorganization/l3-cmemory.md): C 的编译与解释、寄存器与内存布局、指针与数组、栈与堆内存管理笔记
+- [L4a：wbx](https://xw-soleil.github.io/raw/ugcourses/junior-spring/computerorganization/l4a-wbx.md): 飞书原文档为空白占位，未见实际笔记内容
+- [L4b：机器码 Machine Code](https://xw-soleil.github.io/raw/ugcourses/junior-spring/computerorganization/l4b-machinecode.md): 飞书原文档为空白占位；据 L5 笔记中的引用推断本讲主题为机器码，但内容未填写
+- [L5：数字系统设计 Digital System Design](https://xw-soleil.github.io/raw/ugcourses/junior-spring/computerorganization/l5-dsd.md): CMOS 逻辑门与 RISC-V 数据通路的同步时序设计，触发器与建立/保持时间的计算
+- [L6a：单周期处理器设计](https://xw-soleil.github.io/raw/ugcourses/junior-spring/computerorganization/l6a-singlecycle.md): RV32I 单周期数据通路的搭建，从 ADD/ADDI 到 Load/Store 与分支指令的电路实现
+- [L6b：微码处理器架构](https://xw-soleil.github.io/raw/ugcourses/junior-spring/computerorganization/l6b-microcode.md): 微码 ROM 大小计算与单总线数据通路设计，取指-译码-执行的微指令流程举例
+- [L7：流水线处理器](https://xw-soleil.github.io/raw/ugcourses/junior-spring/computerorganization/l7-pipeline.md): 流水线基本概念与结构/数据/控制冒险，以及静态调度、多发射与乱序执行入门
+- [计算机组成与系统结构](https://xw-soleil.github.io/raw/ugcourses/junior-spring/computerorganization.md): 计组课程笔记，从处理器发展史、ISA 与数字系统设计，到流水线、存储层次、并行与缓存一致性的整理
+- [大三春夏](https://xw-soleil.github.io/raw/ugcourses/junior-spring.md): 大三春夏的学习资料与经验分享
+- [本科课程](https://xw-soleil.github.io/raw/ugcourses.md): 本科课程的学习资料与经验分享
+- [ubuntu 系统配置](https://xw-soleil.github.io/raw/ubuntu/config.md): 装好系统之后的各种配置
+- [在 Ubuntu 24.04 上安装 Cadence MMSIM 15.1 的兼容性问题](https://xw-soleil.github.io/raw/ubuntu/cadence/mmsim.md): MMSIM 15.1 在新系统上的踩坑记录
+- [Innovus安装](https://xw-soleil.github.io/raw/ubuntu/cadence/innovus.md): Innovus 的安装流程
+- [Ubuntu24.04安装Cadence 系列软件](https://xw-soleil.github.io/raw/ubuntu/cadence.md): Cadence Virtuoso 617 的安装流程
+- [Ubuntu 24.04 安装 Synopsys](https://xw-soleil.github.io/raw/ubuntu/synopsys.md): 用 Distrobox 起一个 Ubuntu 20.04 容器跑 Synopsys 2024 工具链，以及一路踩过的坑
+- [Ubuntu 24.04 安装 Vivado 2020.1](https://xw-soleil.github.io/raw/ubuntu/vivado.md): Vivado 2020.1 在新版 Ubuntu 上的安装方法，以及连不上开发板的驱动问题
+- [硬盘迁移系统](https://xw-soleil.github.io/raw/ubuntu/migrate.md): 用 LiveUbuntu + GParted + dd 把 Ubuntu 完整搬到另一块硬盘
+- [Ubuntu装进移动硬盘](https://xw-soleil.github.io/raw/ubuntu.md): 此系列主要是 lz 折腾 ubuntu 系统安装、迁移以及 IC Design 软件在 Ubuntu 上的安装

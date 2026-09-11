@@ -1,0 +1,7 @@
+# START nuxt-robots (indexable)
+User-agent: *
+Disallow: /preview
+Disallow: /previews/*
+
+Sitemap: https://xw-soleil.github.io/sitemap.xml
+# END nuxt-robots

@@ -1,0 +1,1 @@
+import{n as e}from"./BKAfXQB_.js";async function t(t){return e(`content`,t.path,{fields:[`date`,`title`,`type`]}).order(`date`,`ASC`).where(`stem`,`LIKE`,`posts/%`)}export{t as default};

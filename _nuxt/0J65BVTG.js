@@ -1,0 +1,1 @@
+import{G as e,V as t,f as n,ot as r}from"./ZwfCjgWw.js";import{o as i}from"./BL8eUqON.js";import{t as a}from"./BDNMzG2s.js";var o={};function s(a,o){let s=i;return t(),n(s,null,{fallback:r(()=>[e(a.$slots,`default`)]),default:r(()=>[e(a.$slots,`default`)]),_:3})}var c=Object.assign(a(o,[[`render`,s]]),{__name:`UtilHydrateSafe`});export{c as t};

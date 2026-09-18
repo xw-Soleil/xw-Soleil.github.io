@@ -1,0 +1,1 @@
+import{t as e}from"./CFgsgb0n.js";async function t(){return e()}export{t as default};

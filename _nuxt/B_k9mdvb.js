@@ -1,0 +1,1 @@
+import{r as e}from"./DbxaNsYZ.js";async function t(){return e(`content`,{ignoredTags:[`pre`]})}export{t as default};

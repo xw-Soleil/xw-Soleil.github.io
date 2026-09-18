@@ -1,0 +1,1 @@
+import{V as e,m as t}from"./ZwfCjgWw.js";import{t as n}from"./BDNMzG2s.js";var r={};function i(n,r){return e(),t(`div`)}var a=Object.assign(n(r,[[`render`,i]]),{__name:`WidgetEmpty`});export{a as default};

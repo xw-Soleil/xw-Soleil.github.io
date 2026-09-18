@@ -1,0 +1,1 @@
+var e=class extends Error{constructor(e){super(e),this.name=`ShikiError`}};export{e as t};

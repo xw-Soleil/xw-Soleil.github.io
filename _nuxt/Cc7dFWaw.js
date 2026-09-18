@@ -1,0 +1,1 @@
+import{t as e}from"./DbxaNsYZ.js";async function t(){return e(`content`).path(`/link`).first()}export{t as default};

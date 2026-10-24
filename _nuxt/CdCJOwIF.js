@@ -1,0 +1,1 @@
+import{u as e}from"#entry";var t=()=>e(`color-mode`).value;export{t};

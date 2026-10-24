@@ -1,0 +1,1 @@
+import{t as e}from"./B0Gv5coC.js";async function t(){return e()}export{t as default};

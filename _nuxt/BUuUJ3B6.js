@@ -1,0 +1,1 @@
+import{u as e}from"./Cglby2rF.js";import{a as t,n}from"./8h42f42_.js";import{l as r,u as i}from"./E5OGyZTR.js";var a=n(`answer`,()=>{let n=t(r(`answer-hidden`,!0)),a=i(),o=e(()=>!a.value||n.value);function s(){n.value=!o.value}return{hidden:o,toggle:s}});export{a as t};

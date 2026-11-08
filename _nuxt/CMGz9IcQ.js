@@ -1,0 +1,1 @@
+import{r as e}from"./Dv2gCmrR.js";async function t(){return e(`content`,{ignoredTags:[`pre`]})}export{t as default};
